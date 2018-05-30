@@ -1,0 +1,6219 @@
+{
+ "directed": false,
+ "multigraph": false,
+ "graph": {
+  "name": "Analisis Artistas Spotify"
+ },
+ "nodes": [
+  {
+   "name": "ScHoolboy Q",
+   "popularity": 80,
+   "image_url": "https://i.scdn.co/image/36447c3a3adfb908867fe2a8679cc3fb92b8ecab",
+   "visitado": true,
+   "degree_weight": 141,
+   "degreeCent": 0.013131601484441908,
+   "closeness": 0.30447631464580616,
+   "betweenness": 0.01105449719578081,
+   "pagerank": 0.0034216471718821954,
+   "comunidad": 1,
+   "id": "spotify:artist:5IcR3N7QB1j6KBL8eImZ8m"
+  },
+  {
+   "name": "Tepr",
+   "popularity": 47,
+   "image_url": "https://i.scdn.co/image/5fe697f22c24e53d4134998662bec682ba7d3bf7",
+   "visitado": true,
+   "degree_weight": 51,
+   "degreeCent": 0.004567513559805881,
+   "closeness": 0.2646769928220627,
+   "betweenness": 0.007978312788271715,
+   "pagerank": 0.0019493205830116006,
+   "comunidad": 2,
+   "id": "spotify:artist:6gvLnqSteeVfB6WnmVJV1j"
+  },
+  {
+   "name": "R3HAB",
+   "popularity": 80,
+   "image_url": "https://i.scdn.co/image/f24e6ce7fd4804f7df60fe183261686df84a0d10",
+   "degree_weight": 16,
+   "degreeCent": 0.0011418783899514702,
+   "closeness": 0.27085749632722494,
+   "betweenness": 0.000420658688268984,
+   "pagerank": 0.0003607327287341363,
+   "comunidad": 3,
+   "id": "spotify:artist:6cEuCEZu7PAE9ZSzLLc2oQ"
+  },
+  {
+   "name": "Chris Brown",
+   "popularity": 91,
+   "image_url": "https://i.scdn.co/image/dd72e5f293cdd39a6f35a7a790d58a5a8922d84e",
+   "degree_weight": 37,
+   "degreeCent": 0.003996574364830146,
+   "closeness": 0.30833553384385176,
+   "betweenness": 0.007144349205616474,
+   "pagerank": 0.0010804368250805368,
+   "comunidad": 2,
+   "id": "spotify:artist:7bXgB6jMjp9ATFy66eO08Z"
+  },
+  {
+   "name": "Young Scooter",
+   "popularity": 61,
+   "image_url": "https://i.scdn.co/image/03742521ac6189453f85c9f4c26ab2479588118a",
+   "degree_weight": 115,
+   "degreeCent": 0.0011418783899514702,
+   "closeness": 0.26826466533925564,
+   "betweenness": 4.866848711829354e-06,
+   "pagerank": 0.00032352889384585845,
+   "comunidad": 4,
+   "id": "spotify:artist:4cmA2QDPdzh8W2ytpyUGes"
+  },
+  {
+   "name": "Chris Hillman",
+   "popularity": 30,
+   "image_url": "https://i.scdn.co/image/4a91eaebeb59ad94612e4aa007ed4e8078578244",
+   "visitado": true,
+   "degree_weight": 87,
+   "degreeCent": 0.0017128175849272054,
+   "closeness": 0.15656565656565657,
+   "betweenness": 0.0028530656516491614,
+   "pagerank": 0.0008075162204221525,
+   "comunidad": 5,
+   "id": "spotify:artist:70FybmH2MMz9fHewhnLvjs"
+  },
+  {
+   "name": "David Banner",
+   "popularity": 53,
+   "image_url": "https://i.scdn.co/image/633d4785459de9d79caef69e87d3d54dcb19cfa0",
+   "visitado": true,
+   "degree_weight": 94,
+   "degreeCent": 0.016842706251784186,
+   "closeness": 0.2934819034852547,
+   "betweenness": 0.022548650078776558,
+   "pagerank": 0.005439793916234022,
+   "comunidad": 2,
+   "id": "spotify:artist:7jFaoqWPhYLrKzjzlpXmUO"
+  },
+  {
+   "name": "E-40",
+   "popularity": 73,
+   "image_url": "https://i.scdn.co/image/3a56ff980ef3463c83cbef549f5ca53daef6f56d",
+   "degree_weight": 17,
+   "degreeCent": 0.0011418783899514702,
+   "closeness": 0.28037457979830316,
+   "betweenness": 7.789929132670173e-05,
+   "pagerank": 0.00033498009638634153,
+   "comunidad": 1,
+   "id": "spotify:artist:3crnzLy8R4lVwaigKEOz7V"
+  },
+  {
+   "name": "Justin Bieber",
+   "popularity": 89,
+   "image_url": "https://i.scdn.co/image/5c3cf2ee3494e2da71dcf26303202ec491b26213",
+   "degree_weight": 10,
+   "degreeCent": 0.0011418783899514702,
+   "closeness": 0.28006076111288775,
+   "betweenness": 0.0006444567665482464,
+   "pagerank": 0.00035321338361988744,
+   "comunidad": 6,
+   "id": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+  },
+  {
+   "name": "The Cool Kids",
+   "popularity": 47,
+   "image_url": "https://i.scdn.co/image/4ffc09c2fcfacfb2ba700b97bef39358748ff249",
+   "visitado": true,
+   "degree_weight": 32,
+   "degreeCent": 0.008564087924636027,
+   "closeness": 0.26132040283476315,
+   "betweenness": 0.014816331474863534,
+   "pagerank": 0.0034556513968216885,
+   "comunidad": 2,
+   "id": "spotify:artist:1AWNf5CLnHH4oM1hcHiVeV"
+  },
+  {
+   "name": "B.o.B",
+   "popularity": 76,
+   "image_url": "https://i.scdn.co/image/c8f14f414aa88b90e896b6d71aec72ea3687265c",
+   "visitado": true,
+   "degree_weight": 91,
+   "degreeCent": 0.015415358264344849,
+   "closeness": 0.30757748704890686,
+   "betweenness": 0.017032653648071782,
+   "pagerank": 0.00447890923090803,
+   "comunidad": 2,
+   "id": "spotify:artist:5ndkK3dpZLKtBklKjxNQwT"
+  },
+  {
+   "name": "Sylvain Armand",
+   "popularity": 42,
+   "image_url": "https://i.scdn.co/image/e95da3533c6ec3bf6f6b64aeec06472659cc0894",
+   "visitado": true,
+   "degree_weight": 8,
+   "degreeCent": 0.0014273479874393378,
+   "closeness": 0.26423776118277137,
+   "betweenness": 0.0017123284879583512,
+   "pagerank": 0.0005595541425660227,
+   "comunidad": 2,
+   "id": "spotify:artist:5HYDjp3ZkQmZ1U6VnrMAvk"
+  },
+  {
+   "name": "Sway",
+   "popularity": 34,
+   "image_url": "https://i.scdn.co/image/e6709b5b0557571cc7cccf8125bee165622aa3f6",
+   "visitado": true,
+   "degree_weight": 20,
+   "degreeCent": 0.005709391949757351,
+   "closeness": 0.23423604145770646,
+   "betweenness": 0.012719313358006622,
+   "pagerank": 0.0024861409671017264,
+   "comunidad": 7,
+   "id": "spotify:artist:4OiMbTr2kjcGbvb2LNauxT"
+  },
+  {
+   "name": "P!nk",
+   "popularity": 83,
+   "image_url": "https://i.scdn.co/image/afc2d276d9c1b398d4f1048c20584f926296b9c0",
+   "visitado": true,
+   "degree_weight": 23,
+   "degreeCent": 0.005138452754781616,
+   "closeness": 0.2637801204819277,
+   "betweenness": 0.008590052755761456,
+   "pagerank": 0.0018473725112446349,
+   "comunidad": 3,
+   "id": "spotify:artist:1KCSPY1glIKqW2TotWuXOR"
+  },
+  {
+   "name": "Jadakiss",
+   "popularity": 68,
+   "image_url": "https://i.scdn.co/image/bc94da8a08e2917f7f68ff754bcda0867cc0945d",
+   "degree_weight": 12,
+   "degreeCent": 0.0011418783899514702,
+   "closeness": 0.26865557174629956,
+   "betweenness": 0.0006105819876941849,
+   "pagerank": 0.00034560738837554364,
+   "comunidad": 8,
+   "id": "spotify:artist:5pnbUBPifNnlusY8kTBivi"
+  },
+  {
+   "name": "David Guetta",
+   "popularity": 91,
+   "image_url": "https://i.scdn.co/image/86a387d8f8154a8c4956865c84283aade9dd3969",
+   "visitado": true,
+   "degree_weight": 1100,
+   "degreeCent": 0.044818726805595205,
+   "closeness": 0.34132319984410014,
+   "betweenness": 0.10336228619100196,
+   "pagerank": 0.015199076857238824,
+   "comunidad": 2,
+   "id": "spotify:artist:1Cs0zKBU1kc0i8ypK3B9ai"
+  },
+  {
+   "name": "Capleton",
+   "popularity": 57,
+   "image_url": "https://i.scdn.co/image/9eb07d88a99807d740c2e76b30dd185f2016f5a4",
+   "visitado": true,
+   "degree_weight": 73,
+   "degreeCent": 0.01170425349700257,
+   "closeness": 0.25668645123470357,
+   "betweenness": 0.01891692831744104,
+   "pagerank": 0.004583319714329757,
+   "comunidad": 8,
+   "id": "spotify:artist:21J3YJTyq1biE3SvSNjzuf"
+  },
+  {
+   "name": "Stefflon Don",
+   "popularity": 80,
+   "image_url": "https://i.scdn.co/image/304a2ae195f5fe37344c31e837ef6e0a839ebe54",
+   "degree_weight": 5,
+   "degreeCent": 0.0011418783899514702,
+   "closeness": 0.2665905631659056,
+   "betweenness": 0.00028883581578846253,
+   "pagerank": 0.00033718031901909756,
+   "comunidad": 3,
+   "id": "spotify:artist:2ExGrw6XpbtUAJHTLtUXUD"
+  },
+  {
+   "name": "Maroon 5",
+   "popularity": 87,
+   "image_url": "https://i.scdn.co/image/4079ef5effe54ab8cc099e2b6d872899d033b09d",
+   "visitado": true,
+   "degree_weight": 41,
+   "degreeCent": 0.007707679132172424,
+   "closeness": 0.31338343174091965,
+   "betweenness": 0.045825207878815055,
+   "pagerank": 0.0022167825630190307,
+   "comunidad": 3,
+   "id": "spotify:artist:04gDigrS5kc9YWfZHwBETP"
+  },
+  {
+   "name": "Katy Perry",
+   "popularity": 84,
+   "image_url": "https://i.scdn.co/image/fcdc433e8ccf8d46d58ac70db322feb9b3328731",
+   "visitado": true,
+   "degree_weight": 19,
+   "degreeCent": 0.004567513559805881,
+   "closeness": 0.28687249201539594,
+   "betweenness": 0.004643344347291703,
+   "pagerank": 0.0013725131269452604,
+   "comunidad": 3,
+   "id": "spotify:artist:6jJ0s89eD6GaHleKKya26X"
+  },
+  {
+   "name": "Cam\u2019ron",
+   "popularity": 65,
+   "image_url": "https://i.scdn.co/image/1ddd86b3cfc0e203f952c5187ec65f89f26cbc75",
+   "degree_weight": 11,
+   "degreeCent": 0.0011418783899514702,
+   "closeness": 0.2810494223363286,
+   "betweenness": 0.0004385174780765797,
+   "pagerank": 0.00033702825376758156,
+   "comunidad": 1,
+   "id": "spotify:artist:7iMvwE8qANp3aIfAGKEAwS"
+  },
+  {
+   "name": "21 Savage",
+   "popularity": 90,
+   "image_url": "https://i.scdn.co/image/b0d670ac865dbfaf520997e7a8fadae15c7729bb",
+   "degree_weight": 15,
+   "degreeCent": 0.0022837567799029405,
+   "closeness": 0.28243166975731676,
+   "betweenness": 0.001622791830703592,
+   "pagerank": 0.0006105416459315681,
+   "comunidad": 4,
+   "id": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
+  },
+  {
+   "name": "Playing For Change",
+   "popularity": 50,
+   "image_url": "https://i.scdn.co/image/bc1c337e581a7645889f42b912543f67b0cee70b",
+   "visitado": true,
+   "degree_weight": 65,
+   "degreeCent": 0.01284613188695404,
+   "closeness": 0.22351965288412456,
+   "betweenness": 0.026209748486816373,
+   "pagerank": 0.00539387276924727,
+   "comunidad": 5,
+   "id": "spotify:artist:645m90txZTycwJGdZTWscc"
+  },
+  {
+   "name": "Tinashe",
+   "popularity": 77,
+   "image_url": "https://i.scdn.co/image/61fd9f0f395555e9a0f4611aafb054ffcb785a15",
+   "degree_weight": 7,
+   "degreeCent": 0.0011418783899514702,
+   "closeness": 0.26898564078937265,
+   "betweenness": 0.001840715203504561,
+   "pagerank": 0.00035432826753304975,
+   "comunidad": 5,
+   "id": "spotify:artist:0NIIxcxNHmOoyBx03SfTCD"
+  },
+  {
+   "name": "Gucci Mane",
+   "popularity": 88,
+   "image_url": "https://i.scdn.co/image/e8eeadc5509005396978782adedc3cb3e924bc4d",
+   "visitado": true,
+   "degree_weight": 3288,
+   "degreeCent": 0.10419640308307165,
+   "closeness": 0.34563394178589046,
+   "betweenness": 0.16954266395613696,
+   "pagerank": 0.03501167884775323,
+   "comunidad": 1,
+   "id": "spotify:artist:13y7CgLHjMVRMDqxdx0Xdo"
+  },
+  {
+   "name": "A$AP Rocky",
+   "popularity": 88,
+   "image_url": "https://i.scdn.co/image/cce607c4d975ae49d68b484eaef51a6413fa73b1",
+   "visitado": true,
+   "degree_weight": 118,
+   "degreeCent": 0.013131601484441908,
+   "closeness": 0.3091518842114553,
+   "betweenness": 0.040754335627696606,
+   "pagerank": 0.0036334852398786544,
+   "comunidad": 1,
+   "id": "spotify:artist:13ubrt8QOOCPljQ2FL1Kca"
+  },
+  {
+   "name": "Sultan",
+   "popularity": 36,
+   "image_url": "https://i.scdn.co/image/9c69ef6efbd67e3b0785a5fd8516a6cf2c616d63",
+   "visitado": true,
+   "degree_weight": 32,
+   "degreeCent": 0.001998287182415073,
+   "closeness": 0.26273156828920724,
+   "betweenness": 0.002883659333626441,
+   "pagerank": 0.0008173106920141564,
+   "comunidad": 2,
+   "id": "spotify:artist:14OWrFlSp0Wj5RBuk4hC3b"
+  },
+  {
+   "name": "A$AP Ferg",
+   "popularity": 80,
+   "image_url": "https://i.scdn.co/image/ea08ae0c9e60a0a416f18b02b35bb6591f62d171",
+   "degree_weight": 7,
+   "degreeCent": 0.0014273479874393378,
+   "closeness": 0.27345823575331774,
+   "betweenness": 0.00023787221104362927,
+   "pagerank": 0.0003798952026376184,
+   "comunidad": 1,
+   "id": "spotify:artist:5dHt1vcEm9qb8fCyLcB3HL"
+  },
+  {
+   "name": "Adam Levine",
+   "popularity": 71,
+   "image_url": "https://i.scdn.co/image/6a38b5c1fabb83ba5db7ff3dfe99da2150af26e3",
+   "visitado": true,
+   "degree_weight": 5,
+   "degreeCent": 0.0011418783899514702,
+   "closeness": 0.2608145335418063,
+   "betweenness": 0.001708057388330332,
+   "pagerank": 0.0004189066323741813,
+   "comunidad": 3,
+   "id": "spotify:artist:4bYPcJP5jwMhSivRcqie2n"
+  },
+  {
+   "name": "Fetty Wap",
+   "popularity": 81,
+   "image_url": "https://i.scdn.co/image/345ba48efb55e88a86e7421e992794e551570bdb",
+   "degree_weight": 15,
+   "degreeCent": 0.0014273479874393378,
+   "closeness": 0.28451916829109813,
+   "betweenness": 0.0015208129580086957,
+   "pagerank": 0.00041815583807401754,
+   "comunidad": 4,
+   "id": "spotify:artist:6PXS4YHDkKvl1wkIl4V8DL"
+  },
+  {
+   "name": "Mustard",
+   "popularity": 71,
+   "image_url": "https://i.scdn.co/image/2a82e27d6d84ad3eec1a2628537beb01759aba6f",
+   "degree_weight": 5,
+   "degreeCent": 0.0011418783899514702,
+   "closeness": 0.25647971884609755,
+   "betweenness": 0.00024859595757389377,
+   "pagerank": 0.0003341690629776037,
+   "comunidad": 6,
+   "id": "spotify:artist:0YinUQ50QDB7ZxSCLyQ40k"
+  },
+  {
+   "name": "Migos",
+   "popularity": 92,
+   "image_url": "https://i.scdn.co/image/29180f7f9c945e04de9b39cb5188f6a9171ae485",
+   "visitado": true,
+   "degree_weight": 144,
+   "degreeCent": 0.013702540679417643,
+   "closeness": 0.3004030529114141,
+   "betweenness": 0.011269975233561684,
+   "pagerank": 0.003680929469839851,
+   "comunidad": 4,
+   "id": "spotify:artist:6oMuImdp5ZcFhWP0ESe6mG"
+  },
+  {
+   "name": "Baaba Maal",
+   "popularity": 59,
+   "image_url": "https://i.scdn.co/image/5d95d327699423ef00f7fb07449dc1b1cb27ba2b",
+   "visitado": true,
+   "degree_weight": 43,
+   "degreeCent": 0.0028546959748786756,
+   "closeness": 0.2249550475211919,
+   "betweenness": 0.008650713469459757,
+   "pagerank": 0.0011573981077408234,
+   "comunidad": 7,
+   "id": "spotify:artist:49z6oAiD2RpyUf5yLJs7Nf"
+  },
+  {
+   "name": "Diddy",
+   "popularity": 75,
+   "image_url": "https://i.scdn.co/image/605b9f65fff2dee52625aac975d146f13cc6bf1d",
+   "degree_weight": 23,
+   "degreeCent": 0.0011418783899514702,
+   "closeness": 0.269337228971244,
+   "betweenness": 9.907259717939296e-05,
+   "pagerank": 0.0003258080826615433,
+   "comunidad": 8,
+   "id": "spotify:artist:59wfkuBoNyhDMQGCljbUbA"
+  },
+  {
+   "name": "Ty Dolla $ign",
+   "popularity": 92,
+   "image_url": "https://i.scdn.co/image/6d0222ada3a614c277aaff64fb1d7eb84a34644b",
+   "degree_weight": 44,
+   "degreeCent": 0.004282043962318014,
+   "closeness": 0.3065278263913196,
+   "betweenness": 0.010715507390451002,
+   "pagerank": 0.0011204567687589566,
+   "comunidad": 1,
+   "id": "spotify:artist:7c0XG5cIJTrrAgEC3ULPiq"
+  },
+  {
+   "name": "Gwen Stefani",
+   "popularity": 74,
+   "image_url": "https://i.scdn.co/image/82a1aaedb700c8e13ae91e54c2c3329e1839c7ca",
+   "visitado": true,
+   "degree_weight": 25,
+   "degreeCent": 0.005423922352269484,
+   "closeness": 0.33115900926451125,
+   "betweenness": 0.026141370017322908,
+   "pagerank": 0.0016548668126135212,
+   "comunidad": 8,
+   "id": "spotify:artist:4yiQZ8tQPux8cPriYMWUFP"
+  },
+  {
+   "name": "Konshens",
+   "popularity": 66,
+   "image_url": "https://i.scdn.co/image/748a46712d10a38472b5503895471e67f6410069",
+   "degree_weight": 7,
+   "degreeCent": 0.0011418783899514702,
+   "closeness": 0.2579148873509056,
+   "betweenness": 0.0014324506180059759,
+   "pagerank": 0.0003671995837748743,
+   "comunidad": 8,
+   "id": "spotify:artist:3nwYsifpwrKmCIpw4i0HDW"
+  },
+  {
+   "name": "Mumford & Sons",
+   "popularity": 77,
+   "visitado": true,
+   "degree_weight": 33,
+   "degreeCent": 0.0022837567799029405,
+   "closeness": 0.20194857604058572,
+   "betweenness": 0.01194179159154273,
+   "pagerank": 0.0009677286448839962,
+   "comunidad": 7,
+   "id": "spotify:artist:3gd8FJtBJtkRxdfbTu19U2"
+  },
+  {
+   "name": "Kendrick Lamar",
+   "popularity": 94,
+   "image_url": "https://i.scdn.co/image/3a836196bfb341f736c7fe2704fb75de53f8dfbb",
+   "visitado": true,
+   "degree_weight": 155,
+   "degreeCent": 0.014558949471881246,
+   "closeness": 0.3083083964090829,
+   "betweenness": 0.02039415781054656,
+   "pagerank": 0.00371715504294728,
+   "comunidad": 1,
+   "id": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+  },
+  {
+   "name": "PnB Rock",
+   "popularity": 81,
+   "image_url": "https://i.scdn.co/image/a560bd71cd9b11cdba9c3f3526b6ef3f1f71e4ee",
+   "degree_weight": 5,
+   "degreeCent": 0.0011418783899514702,
+   "closeness": 0.2663068268207389,
+   "betweenness": 0.00018255459349243857,
+   "pagerank": 0.0003266236826425721,
+   "comunidad": 4,
+   "id": "spotify:artist:21WS9wngs9AqFckK7yYJPM"
+  },
+  {
+   "name": "Cross",
+   "popularity": 22,
+   "image_url": "https://i.scdn.co/image/ba4d980d7d1ffb1cb630fb0007d3f0fc42698d61",
+   "visitado": true,
+   "degree_weight": 30,
+   "degreeCent": 0.0028546959748786756,
+   "closeness": 0.23891692811349066,
+   "betweenness": 0.005132583591155366,
+   "pagerank": 0.001256164052195499,
+   "comunidad": 3,
+   "id": "spotify:artist:1qAOkLV80sef7z8nLPGEee"
+  },
+  {
+   "name": "Lil Wayne",
+   "popularity": 89,
+   "image_url": "https://i.scdn.co/image/018153d1b9a3e60e970e5f9b0ae3e028ed980f0f",
+   "degree_weight": 67,
+   "degreeCent": 0.003711104767342278,
+   "closeness": 0.30182664139238324,
+   "betweenness": 0.004213393173713087,
+   "pagerank": 0.0009654123983158274,
+   "comunidad": 1,
+   "id": "spotify:artist:55Aa2cqylxrFIXC767Z865"
+  },
+  {
+   "name": "Sia",
+   "popularity": 88,
+   "image_url": "https://i.scdn.co/image/652b6bb0dfaf8aa444f4414ee018699260e74306",
+   "visitado": true,
+   "degree_weight": 113,
+   "degreeCent": 0.014558949471881246,
+   "closeness": 0.31836771789511953,
+   "betweenness": 0.08591438183349144,
+   "pagerank": 0.004960363754878275,
+   "comunidad": 2,
+   "id": "spotify:artist:5WUlDfRSoLAfcVSX1WnrxN"
+  },
+  {
+   "name": "MNEK",
+   "popularity": 69,
+   "image_url": "https://i.scdn.co/image/d4d978748c5dd12a6eaa38b948c122f436343fde",
+   "visitado": true,
+   "degree_weight": 17,
+   "degreeCent": 0.004852983157293748,
+   "closeness": 0.21860958562156765,
+   "betweenness": 0.008831333536685722,
+   "pagerank": 0.002077360816312759,
+   "comunidad": 7,
+   "id": "spotify:artist:7uMh23xWiuR7zsNkuNcm2G"
+  },
+  {
+   "name": "Mo Laudi",
+   "popularity": 16,
+   "image_url": "https://i.scdn.co/image/32b44abf6f097017fa6989707dc318599950883a",
+   "visitado": true,
+   "degree_weight": 17,
+   "degreeCent": 0.002569226377390808,
+   "closeness": 0.19580771380659587,
+   "betweenness": 0.004562948654763242,
+   "pagerank": 0.0012064082160276235,
+   "comunidad": 7,
+   "id": "spotify:artist:3jWjZtXKLucI8YSgshXJhW"
+  },
+  {
+   "name": "Ludacris",
+   "popularity": 77,
+   "image_url": "https://i.scdn.co/image/adcc1cb654e89f2e404688ae0d1bbc942ce02e5d",
+   "degree_weight": 36,
+   "degreeCent": 0.001998287182415073,
+   "closeness": 0.2983307784023165,
+   "betweenness": 0.002122503750058689,
+   "pagerank": 0.000586294009576954,
+   "comunidad": 2,
+   "id": "spotify:artist:3ipn9JLAPI5GUEo4y4jcoi"
+  },
+  {
+   "name": "The Very Best",
+   "popularity": 51,
+   "image_url": "https://i.scdn.co/image/c88f48df1c7be06edc67f48fd58b82fc51cc294d",
+   "visitado": true,
+   "degree_weight": 47,
+   "degreeCent": 0.007422209534684556,
+   "closeness": 0.243196334351569,
+   "betweenness": 0.030492129980559394,
+   "pagerank": 0.0030066851642600286,
+   "comunidad": 7,
+   "id": "spotify:artist:7ngHgvOBZdRQb9ITJfLvdO"
+  },
+  {
+   "name": "Big Sean",
+   "popularity": 86,
+   "image_url": "https://i.scdn.co/image/7af4c101861c482e6fdd9f33f73d037f136afe36",
+   "visitado": true,
+   "degree_weight": 199,
+   "degreeCent": 0.017699115044247787,
+   "closeness": 0.32495361781076065,
+   "betweenness": 0.016615264874682522,
+   "pagerank": 0.004567699918563568,
+   "comunidad": 1,
+   "id": "spotify:artist:0c173mlxpT3dSFRgMO8XPh"
+  },
+  {
+   "name": "A-Trak",
+   "popularity": 64,
+   "image_url": "https://i.scdn.co/image/f4f74cb677d168c8f06806ad9f59ac95e94a6845",
+   "visitado": true,
+   "degree_weight": 209,
+   "degreeCent": 0.014844419069369112,
+   "closeness": 0.29706580732700133,
+   "betweenness": 0.027029192015637204,
+   "pagerank": 0.004945504935960969,
+   "comunidad": 4,
+   "id": "spotify:artist:3TaUSUXn41GixL7zbvrIDt"
+  },
+  {
+   "name": "Alan Walker",
+   "popularity": 83,
+   "image_url": "https://i.scdn.co/image/39d9e61f7aed9ae01334b391702c7c8b1871743e",
+   "visitado": true,
+   "degree_weight": 49,
+   "degreeCent": 0.008849557522123894,
+   "closeness": 0.29511373209772535,
+   "betweenness": 0.015162054369938125,
+   "pagerank": 0.0031816002923456717,
+   "comunidad": 6,
+   "id": "spotify:artist:7vk5e3vY1uw9plTHJAMwjN"
+  },
+  {
+   "name": "Young Thug",
+   "popularity": 88,
+   "image_url": "https://i.scdn.co/image/1eb847e76b0c8391cd9ec6dff07e93b86ec33d77",
+   "visitado": true,
+   "degree_weight": 363,
+   "degreeCent": 0.023693976591493006,
+   "closeness": 0.3086615560842365,
+   "betweenness": 0.025585401031517924,
+   "pagerank": 0.006741104930606703,
+   "comunidad": 4,
+   "id": "spotify:artist:50co4Is1HCEo8bhOyUWKpn"
+  },
+  {
+   "name": "Hardwell",
+   "popularity": 75,
+   "image_url": "https://i.scdn.co/image/e05412842611fdfaf64b65acfd5d46a7da265b46",
+   "degree_weight": 5,
+   "degreeCent": 0.0011418783899514702,
+   "closeness": 0.30660831509846825,
+   "betweenness": 0.01623120252436937,
+   "pagerank": 0.00039354713946714747,
+   "comunidad": 3,
+   "id": "spotify:artist:6BrvowZBreEkXzJQMpL174"
+  },
+  {
+   "name": "Lil Uzi Vert",
+   "popularity": 88,
+   "image_url": "https://i.scdn.co/image/17f68c8464b468546a6b0a717708842a3cc4b79d",
+   "degree_weight": 8,
+   "degreeCent": 0.0014273479874393378,
+   "closeness": 0.27437925902717947,
+   "betweenness": 7.463268879893064e-06,
+   "pagerank": 0.00036855411801900716,
+   "comunidad": 4,
+   "id": "spotify:artist:4O15NlyKLIASxsJ0PrXPfz"
+  },
+  {
+   "name": "Kardinal Offishall",
+   "popularity": 59,
+   "image_url": "https://i.scdn.co/image/864f342db5721217e21b62fd92cd33930240344e",
+   "degree_weight": 5,
+   "degreeCent": 0.0011418783899514702,
+   "closeness": 0.2732449297971919,
+   "betweenness": 0.006491881780461341,
+   "pagerank": 0.00037890422878006494,
+   "comunidad": 8,
+   "id": "spotify:artist:5P2rwRBgIN450RaJxdjYdA"
+  },
+  {
+   "name": "Odetta",
+   "popularity": 41,
+   "image_url": "https://i.scdn.co/image/acc7b84a94ec8c0febfa81e33f8db384c4373bdc",
+   "visitado": true,
+   "degree_weight": 70,
+   "degreeCent": 0.001998287182415073,
+   "closeness": 0.15657965313785088,
+   "betweenness": 0.00342318968501014,
+   "pagerank": 0.0009392276252804367,
+   "comunidad": 5,
+   "id": "spotify:artist:2wkz8hACugzAvF0voupg3H"
+  },
+  {
+   "name": "Bleachers",
+   "popularity": 68,
+   "image_url": "https://i.scdn.co/image/e901011f4857ee79cf158afc58fc05e33edf3ad7",
+   "visitado": true,
+   "degree_weight": 23,
+   "degreeCent": 0.004852983157293748,
+   "closeness": 0.2542274475651354,
+   "betweenness": 0.008558875199625247,
+   "pagerank": 0.0018340874480778006,
+   "comunidad": 5,
+   "id": "spotify:artist:2eam0iDomRHGBypaDQLwWI"
+  },
+  {
+   "name": "James Fauntleroy",
+   "popularity": 59,
+   "image_url": "https://i.scdn.co/image/72ed5052d113396eb924cb72f1e28bb1f6d34ad7",
+   "degree_weight": 7,
+   "degreeCent": 0.0011418783899514702,
+   "closeness": 0.2665499923908081,
+   "betweenness": 3.2763513096365496e-05,
+   "pagerank": 0.0002936192032491053,
+   "comunidad": 1,
+   "id": "spotify:artist:5ooSG9S0glqP5ZrqqaHBvT"
+  },
+  {
+   "name": "Clean Bandit",
+   "popularity": 82,
+   "image_url": "https://i.scdn.co/image/4e052e78ad16b5099593194e8a111fb22032186f",
+   "degree_weight": 8,
+   "degreeCent": 0.0011418783899514702,
+   "closeness": 0.26465699607132065,
+   "betweenness": 0.00026413683343087135,
+   "pagerank": 0.0003468452018082188,
+   "comunidad": 6,
+   "id": "spotify:artist:6MDME20pz9RveH9rEXvrOM"
+  },
+  {
+   "name": "Nicki Minaj",
+   "popularity": 91,
+   "image_url": "https://i.scdn.co/image/0a1b363175056a5a21b24b57f1a959d63fd162b1",
+   "visitado": true,
+   "degree_weight": 253,
+   "degreeCent": 0.017699115044247787,
+   "closeness": 0.32155314852212225,
+   "betweenness": 0.028323315755655703,
+   "pagerank": 0.004622656976947645,
+   "comunidad": 3,
+   "id": "spotify:artist:0hCNtLu0JehylgoiP8L4Gh"
+  },
+  {
+   "name": "2 Chainz",
+   "popularity": 87,
+   "image_url": "https://i.scdn.co/image/8a0f9090548262a85cceef38650642d3037fd1e0",
+   "degree_weight": 69,
+   "degreeCent": 0.005423922352269484,
+   "closeness": 0.30722680231538324,
+   "betweenness": 0.010076233767950922,
+   "pagerank": 0.0013719553780083913,
+   "comunidad": 1,
+   "id": "spotify:artist:17lzZA2AlOHwCwFALHttmp"
+  },
+  {
+   "name": "Mary J. Blige",
+   "popularity": 71,
+   "image_url": "https://i.scdn.co/image/571753934f6679837e4f74ffc597484204542145",
+   "visitado": true,
+   "degree_weight": 127,
+   "degreeCent": 0.02340850699400514,
+   "closeness": 0.3179920116194626,
+   "betweenness": 0.03131838908343682,
+   "pagerank": 0.0070826616692630595,
+   "comunidad": 8,
+   "id": "spotify:artist:1XkoF8ryArs86LZvFOkbyr"
+  },
+  {
+   "name": "SZA",
+   "popularity": 88,
+   "image_url": "https://i.scdn.co/image/e1e46c441024525643a19402b3a12188de219420",
+   "visitado": true,
+   "degree_weight": 56,
+   "degreeCent": 0.008849557522123894,
+   "closeness": 0.28542328688992097,
+   "betweenness": 0.004092400764605625,
+   "pagerank": 0.002151632449169405,
+   "comunidad": 1,
+   "id": "spotify:artist:7tYKF4w9nC0nq9CsPZTHyP"
+  },
+  {
+   "name": "Khalid",
+   "popularity": 93,
+   "image_url": "https://i.scdn.co/image/7752ce73f4d0720acc6a4c46cb2d2f40f344f834",
+   "visitado": true,
+   "degree_weight": 23,
+   "degreeCent": 0.0059948615472452185,
+   "closeness": 0.2765890248716936,
+   "betweenness": 0.005528830179318506,
+   "pagerank": 0.0017746974426942667,
+   "comunidad": 1,
+   "id": "spotify:artist:6LuN9FCkKOj5PcnpouEgny"
+  },
+  {
+   "name": "Stargate",
+   "popularity": 66,
+   "image_url": "https://i.scdn.co/image/4a61e7278ea98f76ca13d52d0104fdd7b196b296",
+   "visitado": true,
+   "degree_weight": 15,
+   "degreeCent": 0.002569226377390808,
+   "closeness": 0.2622202260648252,
+   "betweenness": 0.0030060308235551284,
+   "pagerank": 0.0008540623173314095,
+   "comunidad": 4,
+   "id": "spotify:artist:7KUri7klyLaIFXLcuuOMCd"
+  },
+  {
+   "name": "Snoop Dogg",
+   "popularity": 83,
+   "image_url": "https://i.scdn.co/image/b6110a0ff25000578e4bd1bbd72ad6efaa5d6b4e",
+   "visitado": true,
+   "degree_weight": 532,
+   "degreeCent": 0.06708535540964887,
+   "closeness": 0.3603168072413084,
+   "betweenness": 0.17140683106430427,
+   "pagerank": 0.023347940639446427,
+   "comunidad": 2,
+   "id": "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+  },
+  {
+   "name": "Marshmello",
+   "popularity": 91,
+   "image_url": "https://i.scdn.co/image/f3dd808a2eff56552da545beb5b0fc5d3892817a",
+   "degree_weight": 7,
+   "degreeCent": 0.0017128175849272054,
+   "closeness": 0.27397153136242763,
+   "betweenness": 0.00127868615814864,
+   "pagerank": 0.0004917156341516665,
+   "comunidad": 6,
+   "id": "spotify:artist:64KEffDW9EtZ1y2vBYgq8T"
+  },
+  {
+   "name": "Carl Louis",
+   "popularity": 37,
+   "image_url": "https://i.scdn.co/image/c50930a5ec59ae55e2a550f29c767056b985978c",
+   "visitado": true,
+   "degree_weight": 13,
+   "degreeCent": 0.001998287182415073,
+   "closeness": 0.2627709849223614,
+   "betweenness": 0.0028530656516491614,
+   "pagerank": 0.000816498887608316,
+   "comunidad": 2,
+   "id": "spotify:artist:5LY4Rzduoz5b0qZdV3rHwK"
+  },
+  {
+   "name": "Lil Jon",
+   "popularity": 74,
+   "image_url": "https://i.scdn.co/image/ab976e368187909123518fcceefbfbab44ae6d3c",
+   "degree_weight": 17,
+   "degreeCent": 0.0014273479874393378,
+   "closeness": 0.2986614374626993,
+   "betweenness": 0.0036447271781000047,
+   "pagerank": 0.0004576398239139148,
+   "comunidad": 2,
+   "id": "spotify:artist:7sfl4Xt5KmfyDs2T3SVSMK"
+  },
+  {
+   "name": "Quavo",
+   "popularity": 89,
+   "image_url": "https://i.scdn.co/image/5bbc6877502c2a0db474b3b2bd48a073f5048bc2",
+   "degree_weight": 50,
+   "degreeCent": 0.002569226377390808,
+   "closeness": 0.28329963606955116,
+   "betweenness": 0.0011301924048457376,
+   "pagerank": 0.0006731951937771443,
+   "comunidad": 4,
+   "id": "spotify:artist:0VRj0yCOv2FXJNP47XQnx5"
+  },
+  {
+   "name": "Trey Songz",
+   "popularity": 80,
+   "image_url": "https://i.scdn.co/image/d2222f82b0c85ada632339ca101361de8981e8d1",
+   "degree_weight": 10,
+   "degreeCent": 0.0011418783899514702,
+   "closeness": 0.26756798044607394,
+   "betweenness": 0.0003811087038956802,
+   "pagerank": 0.000335237796562655,
+   "comunidad": 1,
+   "id": "spotify:artist:2iojnBLj0qIMiKPvVhLnsH"
+  },
+  {
+   "name": "Jazze Pha",
+   "popularity": 50,
+   "image_url": "https://i.scdn.co/image/3f7fc0427a0811a597035412c25f7607ec596d17",
+   "degree_weight": 10,
+   "degreeCent": 0.0011418783899514702,
+   "closeness": 0.2818862154985113,
+   "betweenness": 0.00043055241663314314,
+   "pagerank": 0.0003667636255616095,
+   "comunidad": 2,
+   "id": "spotify:artist:1QkusyyiLCVP97x3TADKV9"
+  },
+  {
+   "name": "Pusha T",
+   "popularity": 73,
+   "image_url": "https://i.scdn.co/image/ce12fe44acbc040c65c0610f341e7aff426031ca",
+   "visitado": true,
+   "degree_weight": 76,
+   "degreeCent": 0.01284613188695404,
+   "closeness": 0.32081692462679734,
+   "betweenness": 0.018053285037843016,
+   "pagerank": 0.003566349398523733,
+   "comunidad": 1,
+   "id": "spotify:artist:0ONHkAv9pCAFxb0zJwDNTy"
+  },
+  {
+   "name": "Drake",
+   "popularity": 99,
+   "image_url": "https://i.scdn.co/image/cb080366dc8af1fe4dc90c4b9959794794884c66",
+   "degree_weight": 90,
+   "degreeCent": 0.0034256351698544107,
+   "closeness": 0.29308902275769744,
+   "betweenness": 0.0012708964997321687,
+   "pagerank": 0.0008590325440223353,
+   "comunidad": 1,
+   "id": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+  },
+  {
+   "name": "Martin Danielle",
+   "popularity": 15,
+   "image_url": "https://developer.spotify.com/wp-content/uploads/2016/07/icon1@2x.png",
+   "visitado": true,
+   "degree_weight": 15,
+   "degreeCent": 0.0014273479874393378,
+   "closeness": 0.26273156828920724,
+   "betweenness": 0.0012201904902215742,
+   "pagerank": 0.0005549308704677245,
+   "comunidad": 2,
+   "id": "spotify:artist:5OY5S31wlHgs9QetDNVQhP"
+  },
+  {
+   "name": "Vybz Kartel",
+   "popularity": 67,
+   "image_url": "https://i.scdn.co/image/470fc1992a353d801faf9686c020ba6f32c4eacc",
+   "degree_weight": 7,
+   "degreeCent": 0.0014273479874393378,
+   "closeness": 0.27369325728572547,
+   "betweenness": 0.005591154744215555,
+   "pagerank": 0.0004532305572256953,
+   "comunidad": 6,
+   "id": "spotify:artist:2NUz5P42WqkxilbI8ocN76"
+  },
+  {
+   "name": "ZAYN",
+   "popularity": 84,
+   "image_url": "https://i.scdn.co/image/4c11c7fa089bc8b71f4d7420e420a29d2fcec84a",
+   "visitado": true,
+   "degree_weight": 8,
+   "degreeCent": 0.0022837567799029405,
+   "closeness": 0.2640784018092725,
+   "betweenness": 0.0020975549722489864,
+   "pagerank": 0.0007061378107481223,
+   "comunidad": 4,
+   "id": "spotify:artist:5ZsFI1h6hIdQRw2ti0hz81"
+  },
+  {
+   "name": "Buddy Guy",
+   "popularity": 55,
+   "image_url": "https://i.scdn.co/image/f89a2d2e5a90201d5fd90c7ffff29ea22f1d96d5",
+   "visitado": true,
+   "degree_weight": 136,
+   "degreeCent": 0.007993148729660293,
+   "closeness": 0.21903332708059775,
+   "betweenness": 0.015542130132715406,
+   "pagerank": 0.0033651000945677197,
+   "comunidad": 5,
+   "id": "spotify:artist:2gCsNOpiBaMNh20jQ5prf0"
+  },
+  {
+   "name": "Meek Mill",
+   "popularity": 80,
+   "image_url": "https://i.scdn.co/image/8985d205f86ee443e097c932ff22c3d8c6e7431e",
+   "degree_weight": 16,
+   "degreeCent": 0.0017128175849272054,
+   "closeness": 0.2943944869316749,
+   "betweenness": 0.00046140421431518295,
+   "pagerank": 0.00047955772787026436,
+   "comunidad": 2,
+   "id": "spotify:artist:20sxb77xiYeusSH8cVdatc"
+  },
+  {
+   "name": "Tom Middleton",
+   "popularity": 37,
+   "image_url": "https://i.scdn.co/image/74a4af6caaad91e72d5635bf98b794bb3ac3a0f1",
+   "visitado": true,
+   "degree_weight": 8,
+   "degreeCent": 0.001998287182415073,
+   "closeness": 0.28037457979830316,
+   "betweenness": 0.026887825043354713,
+   "pagerank": 0.0008620860294020585,
+   "comunidad": 3,
+   "id": "spotify:artist:7KygebVvltzvrQxNnukuFT"
+  },
+  {
+   "name": "Rick Ross",
+   "popularity": 80,
+   "image_url": "https://i.scdn.co/image/a8d9c1ae4760377ab19b2b734d78f226d0f7108c",
+   "degree_weight": 46,
+   "degreeCent": 0.0034256351698544107,
+   "closeness": 0.3062062937062937,
+   "betweenness": 0.0032413619987894447,
+   "pagerank": 0.0009049029143217952,
+   "comunidad": 8,
+   "id": "spotify:artist:1sBkRIssrMs1AbVkOJbc7a"
+  },
+  {
+   "name": "Kelly Rowland",
+   "popularity": 70,
+   "image_url": "https://i.scdn.co/image/15c7b75b2f18977d71d8b5a86b232e22bf924ce8",
+   "degree_weight": 22,
+   "degreeCent": 0.0011418783899514702,
+   "closeness": 0.2759354076408035,
+   "betweenness": 0.00026382702227567735,
+   "pagerank": 0.0003379237774551665,
+   "comunidad": 1,
+   "id": "spotify:artist:3AuMNF8rQAKOzjYppFNAoB"
+  },
+  {
+   "name": "French Montana",
+   "popularity": 85,
+   "image_url": "https://i.scdn.co/image/29fa1dc766fba1ea3058eb6cebc25bf1d31b7161",
+   "degree_weight": 21,
+   "degreeCent": 0.002569226377390808,
+   "closeness": 0.28699000491561527,
+   "betweenness": 0.0021853337407174416,
+   "pagerank": 0.0006815732265105586,
+   "comunidad": 1,
+   "id": "spotify:artist:6vXTefBL93Dj5IqAWq6OTv"
+  },
+  {
+   "name": "Trippie Redd",
+   "popularity": 84,
+   "image_url": "https://i.scdn.co/image/cfd178273163255314083a04732853628c5a8703",
+   "degree_weight": 6,
+   "degreeCent": 0.0014273479874393378,
+   "closeness": 0.24957252778569394,
+   "betweenness": 0.00020422873806720093,
+   "pagerank": 0.0004185469196426879,
+   "comunidad": 6,
+   "id": "spotify:artist:6Xgp2XMz1fhVYe7i6yNAax"
+  },
+  {
+   "name": "Queen Latifah",
+   "popularity": 59,
+   "image_url": "https://i.scdn.co/image/8f0b1267ee4a84e260991c25d136ed4be13a8cbe",
+   "visitado": true,
+   "degree_weight": 6,
+   "degreeCent": 0.0011418783899514702,
+   "closeness": 0.24160286916339058,
+   "betweenness": 0.0017123284879583512,
+   "pagerank": 0.0005117406583551716,
+   "comunidad": 2,
+   "id": "spotify:artist:5m7wCUhYhBh7A3A3YMxrbt"
+  },
+  {
+   "name": "Jean Ritchie",
+   "popularity": 26,
+   "image_url": "https://i.scdn.co/image/5c18e1c8817046b9dedcbd171354bd0215bc9ff8",
+   "visitado": true,
+   "degree_weight": 165,
+   "degreeCent": 0.004282043962318014,
+   "closeness": 0.15669171587045982,
+   "betweenness": 0.007978312788271715,
+   "pagerank": 0.001987948875493141,
+   "comunidad": 5,
+   "id": "spotify:artist:7cWhIVoEYJd0oWnxULFt8s"
+  },
+  {
+   "name": "Skrillex",
+   "popularity": 81,
+   "image_url": "https://i.scdn.co/image/dfc464638a476db61668e4f0d0e028226530b92f",
+   "degree_weight": 38,
+   "degreeCent": 0.0011418783899514702,
+   "closeness": 0.2828649870801034,
+   "betweenness": 0.0018517584908510848,
+   "pagerank": 0.00033788377489047576,
+   "comunidad": 1,
+   "id": "spotify:artist:5he5w2lnU9x7JFhnwcekXX"
+  },
+  {
+   "name": "The Doobie Brothers",
+   "popularity": 69,
+   "image_url": "https://i.scdn.co/image/7554847d0f7fd793493ee16d51f8e7b84768798f",
+   "visitado": true,
+   "degree_weight": 16,
+   "degreeCent": 0.004282043962318014,
+   "closeness": 0.20959731945192364,
+   "betweenness": 0.0076603171342575094,
+   "pagerank": 0.0019082310749626405,
+   "comunidad": 5,
+   "id": "spotify:artist:39T6qqI0jDtSWWioX8eGJz"
+  },
+  {
+   "name": "A Boogie Wit da Hoodie",
+   "popularity": 83,
+   "image_url": "https://i.scdn.co/image/4c48b88ec7595720c4be124569a94621fc61ccec",
+   "visitado": true,
+   "degree_weight": 27,
+   "degreeCent": 0.005709391949757351,
+   "closeness": 0.2551905004735193,
+   "betweenness": 0.005237267527337642,
+   "pagerank": 0.0016904323056925058,
+   "comunidad": 4,
+   "id": "spotify:artist:31W5EY0aAly4Qieq6OFu6I"
+  },
+  {
+   "name": "Andr\u00e9 3000",
+   "popularity": 60,
+   "image_url": "https://i.scdn.co/image/5c8d57d92825466637905f0d4219064cb39333e9",
+   "degree_weight": 5,
+   "degreeCent": 0.0011418783899514702,
+   "closeness": 0.2712560012389655,
+   "betweenness": 0.0003045247615110496,
+   "pagerank": 0.00032892153127562243,
+   "comunidad": 2,
+   "id": "spotify:artist:74V3dE1a51skRkdII8y2C6"
+  },
+  {
+   "name": "Nas",
+   "popularity": 74,
+   "image_url": "https://i.scdn.co/image/ba18d0131343ca84cb9ab0eb31f56745302bc78f",
+   "visitado": true,
+   "degree_weight": 121,
+   "degreeCent": 0.021695689409077935,
+   "closeness": 0.3253459645212223,
+   "betweenness": 0.0336878828208035,
+   "pagerank": 0.00690345064957877,
+   "comunidad": 8,
+   "id": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+  },
+  {
+   "name": "K'NAAN",
+   "popularity": 56,
+   "image_url": "https://i.scdn.co/image/2ef35a677e4576544a7d5f5eb4d3b8a977cb8472",
+   "visitado": true,
+   "degree_weight": 24,
+   "degreeCent": 0.0034256351698544107,
+   "closeness": 0.2842651951635154,
+   "betweenness": 0.019614715314968067,
+   "pagerank": 0.0011596245593722889,
+   "comunidad": 8,
+   "id": "spotify:artist:7pGyQZx9thVa8GxMBeXscB"
+  },
+  {
+   "name": "YG",
+   "popularity": 83,
+   "image_url": "https://i.scdn.co/image/69e3c869c17a25a287a5fc0b1af1e5607363053d",
+   "degree_weight": 5,
+   "degreeCent": 0.0011418783899514702,
+   "closeness": 0.2806216454377954,
+   "betweenness": 0.0005810660070043294,
+   "pagerank": 0.0003359162119579121,
+   "comunidad": 4,
+   "id": "spotify:artist:0A0FS04o6zMoto8OKPsDwY"
+  },
+  {
+   "name": "Future",
+   "popularity": 91,
+   "image_url": "https://i.scdn.co/image/5edf0373e8df999d93a2d6bf198c6b7ba85c3f67",
+   "visitado": true,
+   "degree_weight": 325,
+   "degreeCent": 0.021981159006565804,
+   "closeness": 0.33845410628019323,
+   "betweenness": 0.025000544111008677,
+   "pagerank": 0.00586177974859243,
+   "comunidad": 1,
+   "id": "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+  },
+  {
+   "name": "Dillon Francis",
+   "popularity": 73,
+   "image_url": "https://i.scdn.co/image/fa5f474cc837f763f718b79c0039a76616c65c3a",
+   "degree_weight": 17,
+   "degreeCent": 0.0011418783899514702,
+   "closeness": 0.2685320045994634,
+   "betweenness": 0.0013909503763365539,
+   "pagerank": 0.00036854430528557205,
+   "comunidad": 3,
+   "id": "spotify:artist:5R3Hr2cnCCjt220Jmt2xLf"
+  },
+  {
+   "name": "Lil Yachty",
+   "popularity": 87,
+   "image_url": "https://i.scdn.co/image/8100bb3f01e9cbd9bbae451e7b309cdeb62836f8",
+   "visitado": true,
+   "degree_weight": 103,
+   "degreeCent": 0.015986297459320585,
+   "closeness": 0.29616165032127156,
+   "betweenness": 0.021463077348197628,
+   "pagerank": 0.004911769147849006,
+   "comunidad": 4,
+   "id": "spotify:artist:6icQOAFXDZKsumw3YXyusw"
+  },
+  {
+   "name": "Wale",
+   "popularity": 76,
+   "image_url": "https://i.scdn.co/image/ad19fc7b636c3e986b22947ec44dcc1c605aec70",
+   "degree_weight": 16,
+   "degreeCent": 0.0014273479874393378,
+   "closeness": 0.27766328471781865,
+   "betweenness": 0.0010768877523785667,
+   "pagerank": 0.0003996066052924935,
+   "comunidad": 4,
+   "id": "spotify:artist:67nwj3Y5sZQLl72VNUHEYE"
+  },
+  {
+   "name": "Takeoff",
+   "popularity": 63,
+   "image_url": "https://i.scdn.co/image/d35a654ee54170a85c32747e3bb03b331a2ae82a",
+   "visitado": true,
+   "degree_weight": 11,
+   "degreeCent": 0.001998287182415073,
+   "closeness": 0.2742933208049487,
+   "betweenness": 0.00042308951639465076,
+   "pagerank": 0.0005321503786333315,
+   "comunidad": 4,
+   "id": "spotify:artist:3EW0kQ1skZiK1NHg3Spt9J"
+  },
+  {
+   "name": "Mac Miller",
+   "popularity": 76,
+   "image_url": "https://i.scdn.co/image/f4509fe9c589c12be5470653178f901bd697b97b",
+   "degree_weight": 7,
+   "degreeCent": 0.0011418783899514702,
+   "closeness": 0.2612814201536511,
+   "betweenness": 5.2882367162690354e-05,
+   "pagerank": 0.00031074306863438804,
+   "comunidad": 1,
+   "id": "spotify:artist:4LLpKhyESsyAXpc4laK94U"
+  },
+  {
+   "name": "Baio",
+   "popularity": 45,
+   "image_url": "https://i.scdn.co/image/33f9c2b2aadd7dc789a6c899fb713207566e6ceb",
+   "visitado": true,
+   "degree_weight": 13,
+   "degreeCent": 0.003711104767342278,
+   "closeness": 0.16821936227429887,
+   "betweenness": 0.00684051020639403,
+   "pagerank": 0.0017441240593642406,
+   "comunidad": 7,
+   "id": "spotify:artist:50lhyY7UVI9NyVHl79rVgk"
+  },
+  {
+   "name": "Tommy Makem",
+   "popularity": 42,
+   "image_url": "https://i.scdn.co/image/49a877baad0565754106f1f4819accbe1c81c970",
+   "visitado": true,
+   "degree_weight": 1050,
+   "degreeCent": 0.004282043962318014,
+   "closeness": 0.15669171587045982,
+   "betweenness": 0.007978312788271715,
+   "pagerank": 0.001987948875493141,
+   "comunidad": 5,
+   "id": "spotify:artist:3oehGAh6rLM6LFdzM7E7zM"
+  },
+  {
+   "name": "Drag-On",
+   "popularity": 49,
+   "image_url": "https://i.scdn.co/image/e8cfc3dc500cbf6e82f17697724e3445fd05fc4a",
+   "visitado": true,
+   "degree_weight": 16,
+   "degreeCent": 0.003996574364830146,
+   "closeness": 0.25634833516282474,
+   "betweenness": 0.0046653599332474194,
+   "pagerank": 0.0013867396332106613,
+   "comunidad": 8,
+   "id": "spotify:artist:2NsAJcAM18AExiMWKLKzuH"
+  },
+  {
+   "name": "Joan Baez",
+   "popularity": 56,
+   "image_url": "https://i.scdn.co/image/d09a5e4f1b49b8943ac2bc1a6d6f9d4e022bb7de",
+   "visitado": true,
+   "degree_weight": 12,
+   "degreeCent": 0.001998287182415073,
+   "closeness": 0.18133347137384823,
+   "betweenness": 0.002290100497679624,
+   "pagerank": 0.0008466043388484699,
+   "comunidad": 5,
+   "id": "spotify:artist:1EevBGfUh3RSQSGpluxgBm"
+  },
+  {
+   "name": "Ariana Grande",
+   "popularity": 89,
+   "image_url": "https://i.scdn.co/image/25dd6de55a74237ae84e1b53e083bbd5aadade39",
+   "visitado": true,
+   "degree_weight": 57,
+   "degreeCent": 0.008849557522123894,
+   "closeness": 0.2993761216990001,
+   "betweenness": 0.008783728125706351,
+   "pagerank": 0.002526819856811834,
+   "comunidad": 1,
+   "id": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+  },
+  {
+   "name": "Busta Rhymes",
+   "popularity": 75,
+   "image_url": "https://i.scdn.co/image/d4c28fb970ac89443e6ce401222de7ad30382ee5",
+   "degree_weight": 16,
+   "degreeCent": 0.0028546959748786756,
+   "closeness": 0.303316304441943,
+   "betweenness": 0.023364227732128026,
+   "pagerank": 0.0008590818386533488,
+   "comunidad": 8,
+   "id": "spotify:artist:1YfEcTuGvBQ8xSD1f53UnK"
+  },
+  {
+   "name": "3LAU",
+   "popularity": 66,
+   "image_url": "https://i.scdn.co/image/858a31c68b3379a0e7e64b81b74e6b3362cdddcd",
+   "degree_weight": 7,
+   "degreeCent": 0.0014273479874393378,
+   "closeness": 0.2706900548643845,
+   "betweenness": 0.0002822303127153982,
+   "pagerank": 0.0004143626423182756,
+   "comunidad": 3,
+   "id": "spotify:artist:4YLQaW1UU3mrVetC8gNkg5"
+  },
+  {
+   "name": "Iggy Azalea",
+   "popularity": 73,
+   "image_url": "https://i.scdn.co/image/f05b295bb8c36214f22823e102be9cfaec6a8086",
+   "degree_weight": 6,
+   "degreeCent": 0.0014273479874393378,
+   "closeness": 0.27870156734823776,
+   "betweenness": 0.0011621215112412751,
+   "pagerank": 0.00041027583986456113,
+   "comunidad": 6,
+   "id": "spotify:artist:5yG7ZAZafVaAlMTeBybKAL"
+  },
+  {
+   "name": "Dr. John",
+   "popularity": 57,
+   "image_url": "https://i.scdn.co/image/d84d90ea5c3e99e3301dd0c065377ad9284aa62e",
+   "visitado": true,
+   "degree_weight": 39,
+   "degreeCent": 0.005709391949757351,
+   "closeness": 0.2454112372145159,
+   "betweenness": 0.015265854036403638,
+   "pagerank": 0.0023591758113630196,
+   "comunidad": 5,
+   "id": "spotify:artist:320TrJub4arztwXRm7kqVO"
+  },
+  {
+   "name": "Laura Marling",
+   "popularity": 60,
+   "image_url": "https://i.scdn.co/image/2ae95872a4bc655aa219d3f7114f37ac8682e8a1",
+   "visitado": true,
+   "degree_weight": 9,
+   "degreeCent": 0.0011418783899514702,
+   "closeness": 0.1680740811822282,
+   "betweenness": 0.0017123284879583512,
+   "pagerank": 0.0005553222728607585,
+   "comunidad": 7,
+   "id": "spotify:artist:7B2edU3Q7btJoNsoHCNohM"
+  },
+  {
+   "name": "Jeremih",
+   "popularity": 81,
+   "image_url": "https://i.scdn.co/image/48e38236955edc0ac5dbe291992dbf82a90e6d6d",
+   "degree_weight": 13,
+   "degreeCent": 0.0014273479874393378,
+   "closeness": 0.2895759279160122,
+   "betweenness": 0.0021602875719158045,
+   "pagerank": 0.00043328175488124853,
+   "comunidad": 2,
+   "id": "spotify:artist:3KV3p5EY4AvKxOlhGHORLg"
+  },
+  {
+   "name": "KDA",
+   "popularity": 51,
+   "image_url": "https://i.scdn.co/image/7747f8ba35f1f11b6bb3499ce40c67774ce79caf",
+   "visitado": true,
+   "degree_weight": 25,
+   "degreeCent": 0.003711104767342278,
+   "closeness": 0.2548006982833867,
+   "betweenness": 0.004056088240263524,
+   "pagerank": 0.0012560184697774331,
+   "comunidad": 5,
+   "id": "spotify:artist:3EK3opK9Hp93HJjBPupzfg"
+  },
+  {
+   "name": "BRAVVO",
+   "popularity": 41,
+   "image_url": "https://i.scdn.co/image/0c05b6904ae7092b923b25d5ccb715ddb1850976",
+   "visitado": true,
+   "degree_weight": 9,
+   "degreeCent": 0.0022837567799029405,
+   "closeness": 0.24044203445672319,
+   "betweenness": 0.00342318968501014,
+   "pagerank": 0.0009365398997587106,
+   "comunidad": 3,
+   "id": "spotify:artist:3REinOiaOAraofOGk1Cewm"
+  },
+  {
+   "name": "Sean Paul",
+   "popularity": 85,
+   "image_url": "https://i.scdn.co/image/2b630d40e1dc16992fe7cea9e5d9368f320ed311",
+   "visitado": true,
+   "degree_weight": 115,
+   "degreeCent": 0.02340850699400514,
+   "closeness": 0.3040006942636466,
+   "betweenness": 0.04404107955714874,
+   "pagerank": 0.00775111303423994,
+   "comunidad": 6,
+   "id": "spotify:artist:3Isy6kedDrgPYoTS1dazA9"
+  },
+  {
+   "name": "Kanye West",
+   "popularity": 90,
+   "image_url": "https://i.scdn.co/image/651370b09316c3851153b1ccf04e7d6f29bf39df",
+   "degree_weight": 38,
+   "degreeCent": 0.003711104767342278,
+   "closeness": 0.30355285961871753,
+   "betweenness": 0.00282436073943854,
+   "pagerank": 0.0009640366484565401,
+   "comunidad": 1,
+   "id": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+  },
+  {
+   "name": "JAY Z",
+   "popularity": 83,
+   "image_url": "https://i.scdn.co/image/2e925c2f793f835eb8ec84cd71dffce12e3abc11",
+   "degree_weight": 18,
+   "degreeCent": 0.0022837567799029405,
+   "closeness": 0.28677855096193205,
+   "betweenness": 0.0010958993189733239,
+   "pagerank": 0.0006244045198122079,
+   "comunidad": 8,
+   "id": "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+  },
+  {
+   "name": "Bruno Mars",
+   "popularity": 89,
+   "image_url": "https://i.scdn.co/image/aa32d6d4ca2467974403518dd3ebfe8831c5ced1",
+   "visitado": true,
+   "degree_weight": 28,
+   "degreeCent": 0.005423922352269484,
+   "closeness": 0.35588743269328454,
+   "betweenness": 0.11909261583756742,
+   "pagerank": 0.0016963467844745277,
+   "comunidad": 2,
+   "id": "spotify:artist:0du5cEVh5yTK9QJze8zA0C"
+  },
+  {
+   "name": "Stephen Marley",
+   "popularity": 64,
+   "image_url": "https://i.scdn.co/image/f0c668706dd6f8c81f7ea91a8ecc094c21d8fa68",
+   "visitado": true,
+   "degree_weight": 91,
+   "degreeCent": 0.013417071081929775,
+   "closeness": 0.28862157040454806,
+   "betweenness": 0.023613906440826976,
+   "pagerank": 0.0043527946351084494,
+   "comunidad": 8,
+   "id": "spotify:artist:0CIwCGmQMqHqiblnZlFia1"
+  },
+  {
+   "name": "Ryan Tedder",
+   "popularity": 58,
+   "image_url": "https://i.scdn.co/image/1e03452d80bcffea749b96eef3537974922ad897",
+   "degree_weight": 16,
+   "degreeCent": 0.0011418783899514702,
+   "closeness": 0.29822918440320106,
+   "betweenness": 0.010572196473785794,
+   "pagerank": 0.0003923015357406552,
+   "comunidad": 3,
+   "id": "spotify:artist:4we5S2VLjgY9KzIzApL1KI"
+  },
+  {
+   "name": "Kehlani",
+   "popularity": 86,
+   "image_url": "https://i.scdn.co/image/322f3e62a60ffd0c3dafa39301abb93ec1f955da",
+   "visitado": true,
+   "degree_weight": 18,
+   "degreeCent": 0.003996574364830146,
+   "closeness": 0.2671802303409351,
+   "betweenness": 0.0041081612316350045,
+   "pagerank": 0.0011988092840411724,
+   "comunidad": 4,
+   "id": "spotify:artist:0cGUm45nv7Z6M6qdXYQGTX"
+  },
+  {
+   "name": "Christina Aguilera",
+   "popularity": 79,
+   "image_url": "https://i.scdn.co/image/ae280a88da724918d9af204831702092f8f17a9b",
+   "visitado": true,
+   "degree_weight": 94,
+   "degreeCent": 0.014273479874393378,
+   "closeness": 0.28684900098264005,
+   "betweenness": 0.027919076485945764,
+   "pagerank": 0.00491583189444966,
+   "comunidad": 3,
+   "id": "spotify:artist:1l7ZsJRRS8wlW3WfJfPfNS"
+  },
+  {
+   "name": "Miguel",
+   "popularity": 50,
+   "image_url": "https://i.scdn.co/image/c4f54f204bcf760f2467b177cb621612aff96a0a",
+   "visitado": true,
+   "degree_weight": 6,
+   "degreeCent": 0.0011418783899514702,
+   "closeness": 0.2794352265475431,
+   "betweenness": 0.0017488657279247644,
+   "pagerank": 0.0003285804490544681,
+   "comunidad": 1,
+   "id": "spotify:artist:1itHjymAB17H3XG1ZM0AHT"
+  },
+  {
+   "name": "Bun B",
+   "popularity": 63,
+   "image_url": "https://i.scdn.co/image/ffecc1334ae47af66883410d7bd7ff66cff5b4e0",
+   "degree_weight": 12,
+   "degreeCent": 0.0011418783899514702,
+   "closeness": 0.2817501809699992,
+   "betweenness": 0.0019729687853121593,
+   "pagerank": 0.000377813237944615,
+   "comunidad": 2,
+   "id": "spotify:artist:45a6gCQWq61lIUDmr1tKuO"
+  },
+  {
+   "name": "Jessie Reyez",
+   "popularity": 70,
+   "image_url": "https://i.scdn.co/image/e76916f63b34256609f801bcee8d6c4418819afd",
+   "visitado": true,
+   "degree_weight": 7,
+   "degreeCent": 0.001998287182415073,
+   "closeness": 0.2547451094465857,
+   "betweenness": 0.002886052299945643,
+   "pagerank": 0.000813892221948476,
+   "comunidad": 3,
+   "id": "spotify:artist:3KedxarmBCyFBevnqQHy3P"
+  },
+  {
+   "name": "Armand Van Helden",
+   "popularity": 60,
+   "image_url": "https://i.scdn.co/image/91c7e6de22c5303257295bc8f3faa7609222ed8a",
+   "degree_weight": 6,
+   "degreeCent": 0.0011418783899514702,
+   "closeness": 0.26314603365384615,
+   "betweenness": 0.0010873669254410003,
+   "pagerank": 0.00037042252703928935,
+   "comunidad": 5,
+   "id": "spotify:artist:3cQA9WH8liZfeja1DxcDYE"
+  },
+  {
+   "name": "Diplo",
+   "popularity": 80,
+   "image_url": "https://i.scdn.co/image/19d053b79d3ce8eb16d15d128c75c6df3710c9c9",
+   "visitado": true,
+   "degree_weight": 406,
+   "degreeCent": 0.04795889237796175,
+   "closeness": 0.3040798611111111,
+   "betweenness": 0.08580748189673973,
+   "pagerank": 0.017289052736448776,
+   "comunidad": 6,
+   "id": "spotify:artist:5fMUXHkw8R8eOP2RNVYEZX"
+  },
+  {
+   "name": "Yami Bolo",
+   "popularity": 37,
+   "image_url": "https://i.scdn.co/image/41598e888e216d11f0c6ee8bf5e87cc878971c85",
+   "visitado": true,
+   "degree_weight": 30,
+   "degreeCent": 0.007136739937196689,
+   "closeness": 0.2535282622855902,
+   "betweenness": 0.011107266262682401,
+   "pagerank": 0.0028553214538312734,
+   "comunidad": 8,
+   "id": "spotify:artist:6K4qT7qjaR6q5SqwQ1oA3o"
+  },
+  {
+   "name": "Ephwurd",
+   "popularity": 52,
+   "image_url": "https://i.scdn.co/image/0487e6e6ce5b60d68195c52c1abaaa9051407eb4",
+   "visitado": true,
+   "degree_weight": 8,
+   "degreeCent": 0.001998287182415073,
+   "closeness": 0.20616797127891237,
+   "betweenness": 0.0029311257495378234,
+   "pagerank": 0.0008501366854051526,
+   "comunidad": 5,
+   "id": "spotify:artist:548YUkLaLzti0BLqaWpn1W"
+  },
+  {
+   "name": "Tinie Tempah",
+   "popularity": 71,
+   "image_url": "https://i.scdn.co/image/795c82a6aee0a9dcbe1e1df577146451ce130632",
+   "degree_weight": 11,
+   "degreeCent": 0.0011418783899514702,
+   "closeness": 0.27431480031323413,
+   "betweenness": 0.0015440812707940106,
+   "pagerank": 0.00035471960456731746,
+   "comunidad": 5,
+   "id": "spotify:artist:0Tob4H0FLtEONHU1MjpUEp"
+  },
+  {
+   "name": "Calvin Harris",
+   "popularity": 89,
+   "image_url": "https://i.scdn.co/image/7b4c05bee8c822c006b372e26ef1b08acc3af45a",
+   "visitado": true,
+   "degree_weight": 163,
+   "degreeCent": 0.023123037396517273,
+   "closeness": 0.3367945389866359,
+   "betweenness": 0.07595414796538197,
+   "pagerank": 0.007052827425311979,
+   "comunidad": 3,
+   "id": "spotify:artist:7CajNmpbOovFoOoasH2HaY"
+  },
+  {
+   "name": "Hurts",
+   "popularity": 63,
+   "image_url": "https://i.scdn.co/image/7a2ba53fa6fadd8bab477c3e3f4d002b44300967",
+   "visitado": true,
+   "degree_weight": 32,
+   "degreeCent": 0.007136739937196689,
+   "closeness": 0.27087844107639963,
+   "betweenness": 0.01157162561769952,
+   "pagerank": 0.0028900137263889875,
+   "comunidad": 3,
+   "id": "spotify:artist:3w4VAlllkAWI6m0AV0Gn6a"
+  },
+  {
+   "name": "Bounty Killer",
+   "popularity": 48,
+   "image_url": "https://i.scdn.co/image/90101de01b33d9cac4021657f0412b1fd9761298",
+   "visitado": true,
+   "degree_weight": 201,
+   "degreeCent": 0.04167856123322866,
+   "closeness": 0.2763272067523862,
+   "betweenness": 0.07157988057019356,
+   "pagerank": 0.016412830700002653,
+   "comunidad": 8,
+   "id": "spotify:artist:6UuT0BJZ9vF8Y1sxXnJl2s"
+  },
+  {
+   "name": "Eek-A-Mouse",
+   "popularity": 53,
+   "image_url": "https://i.scdn.co/image/08e887f804751c6c9d0a51f6d504685672255bba",
+   "visitado": true,
+   "degree_weight": 13,
+   "degreeCent": 0.002569226377390808,
+   "closeness": 0.2493238434163701,
+   "betweenness": 0.004082410156910022,
+   "pagerank": 0.0010748788065785663,
+   "comunidad": 8,
+   "id": "spotify:artist:6xqlgBccdlxUh5DeJSx2ho"
+  },
+  {
+   "name": "Wiz Khalifa",
+   "popularity": 86,
+   "image_url": "https://i.scdn.co/image/52465652af91d7671c92b4b7fd49bc7470b95e38",
+   "visitado": true,
+   "degree_weight": 197,
+   "degreeCent": 0.019126463031687125,
+   "closeness": 0.34386963777363305,
+   "betweenness": 0.03299225901501385,
+   "pagerank": 0.005374959384386667,
+   "comunidad": 1,
+   "id": "spotify:artist:137W8MRPWKqSmrBGDBFSop"
+  },
+  {
+   "name": "Passion Pit",
+   "popularity": 66,
+   "image_url": "https://i.scdn.co/image/9485f6e49e69b1fc97f7403a1f19d61386bc02be",
+   "visitado": true,
+   "degree_weight": 10,
+   "degreeCent": 0.0017128175849272054,
+   "closeness": 0.28486622753517116,
+   "betweenness": 0.0023915766633006118,
+   "pagerank": 0.000652210193988377,
+   "comunidad": 2,
+   "id": "spotify:artist:7gjAu1qr5C2grXeQFFOGeh"
+  },
+  {
+   "name": "Eliza Carthy",
+   "popularity": 27,
+   "image_url": "https://i.scdn.co/image/beb1fcc6fb04810d90a84758872874503c224dac",
+   "visitado": true,
+   "degree_weight": 127,
+   "degreeCent": 0.004282043962318014,
+   "closeness": 0.15669171587045982,
+   "betweenness": 0.007978312788271715,
+   "pagerank": 0.001987948875493141,
+   "comunidad": 5,
+   "id": "spotify:artist:3ZSRiAJKs42ymp2KYA80Qh"
+  },
+  {
+   "name": "Akon",
+   "popularity": 79,
+   "image_url": "https://i.scdn.co/image/2654dec641e9ce23b79574dbff1189bdff5f3248",
+   "degree_weight": 40,
+   "degreeCent": 0.001998287182415073,
+   "closeness": 0.299248248761319,
+   "betweenness": 0.013587968933323409,
+   "pagerank": 0.0006183428598473547,
+   "comunidad": 2,
+   "id": "spotify:artist:0z4gvV4rjIZ9wHck67ucSV"
+  },
+  {
+   "name": "LunchMoney Lewis",
+   "popularity": 63,
+   "image_url": "https://i.scdn.co/image/778e73fcd80afe222995a1b7e748b17608017b9b",
+   "visitado": true,
+   "degree_weight": 7,
+   "degreeCent": 0.0017128175849272054,
+   "closeness": 0.2848893949251789,
+   "betweenness": 0.0009326912652394014,
+   "pagerank": 0.0004932800770356414,
+   "comunidad": 3,
+   "id": "spotify:artist:2iUbk5KhZYZt4CRvWbwb7S"
+  },
+  {
+   "name": "T.I.",
+   "popularity": 79,
+   "image_url": "https://i.scdn.co/image/eae4a88e33baad4b4ce4605aa074c45766e94d09",
+   "degree_weight": 31,
+   "degreeCent": 0.002569226377390808,
+   "closeness": 0.29036803713527853,
+   "betweenness": 0.0014877677085837245,
+   "pagerank": 0.0007045271438789006,
+   "comunidad": 2,
+   "id": "spotify:artist:4OBJLual30L7gRl5UkeRcT"
+  },
+  {
+   "name": "Swae Lee",
+   "popularity": 87,
+   "image_url": "https://i.scdn.co/image/356067aeb1976b9353dcf0bc5687f7f07c1a8ad4",
+   "degree_weight": 6,
+   "degreeCent": 0.0014273479874393378,
+   "closeness": 0.26588235294117646,
+   "betweenness": 0.00013856314830934454,
+   "pagerank": 0.0003693171673000015,
+   "comunidad": 1,
+   "id": "spotify:artist:1zNqQNIdeOUZHb8zbZRFMX"
+  },
+  {
+   "name": "Rihanna",
+   "popularity": 91,
+   "image_url": "https://i.scdn.co/image/1fc2f537d678d701d7d143a8fd4f0c2f29fbde22",
+   "visitado": true,
+   "degree_weight": 225,
+   "degreeCent": 0.02569226377390808,
+   "closeness": 0.32972515060240964,
+   "betweenness": 0.04393018115682459,
+   "pagerank": 0.008346922343366535,
+   "comunidad": 3,
+   "id": "spotify:artist:5pKCCKE2ajJHZ9KAiaK11H"
+  },
+  {
+   "name": "Wyclef Jean",
+   "popularity": 73,
+   "image_url": "https://i.scdn.co/image/ba6e9bbf813f0a877ff31c397ffeda1366522517",
+   "degree_weight": 5,
+   "degreeCent": 0.0011418783899514702,
+   "closeness": 0.27672012007267555,
+   "betweenness": 0.0010779386165143492,
+   "pagerank": 0.0003459089273964646,
+   "comunidad": 8,
+   "id": "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+  },
+  {
+   "name": "Eminem",
+   "popularity": 92,
+   "image_url": "https://i.scdn.co/image/6c3ecb13aa0160b990cc957292751f229c9b5b7b",
+   "degree_weight": 10,
+   "degreeCent": 0.0014273479874393378,
+   "closeness": 0.26927511722653547,
+   "betweenness": 0.000794432571379624,
+   "pagerank": 0.00040580353893901716,
+   "comunidad": 3,
+   "id": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+  },
+  {
+   "name": "Quality Control",
+   "popularity": 74,
+   "image_url": "https://i.scdn.co/image/3b35185826b88db643ad2221efcfb10fc8b9645f",
+   "degree_weight": 19,
+   "degreeCent": 0.0022837567799029405,
+   "closeness": 0.2790345706547714,
+   "betweenness": 0.00019545192786269927,
+   "pagerank": 0.0005903591496539904,
+   "comunidad": 4,
+   "id": "spotify:artist:6i392l38cR3uBPF0DbNs7S"
+  },
+  {
+   "name": "Judy Collins",
+   "popularity": 49,
+   "image_url": "https://i.scdn.co/image/dd90f2618b1e1da9f3fac41aea434fda7dbb3626",
+   "visitado": true,
+   "degree_weight": 75,
+   "degreeCent": 0.009991435912075365,
+   "closeness": 0.21963759483353187,
+   "betweenness": 0.04453028890885717,
+   "pagerank": 0.004315676001909144,
+   "comunidad": 5,
+   "id": "spotify:artist:5yzE49FicYiSxN61oaxkNn"
+  },
+  {
+   "name": "Brooke Candy",
+   "popularity": 50,
+   "image_url": "https://i.scdn.co/image/1538bbb67693b428b6a15cb5e549e649f1357a79",
+   "visitado": true,
+   "degree_weight": 7,
+   "degreeCent": 0.001998287182415073,
+   "closeness": 0.24453752181500873,
+   "betweenness": 0.0018862082460340674,
+   "pagerank": 0.0007363012937137708,
+   "comunidad": 5,
+   "id": "spotify:artist:3amwMyDd1uxTBoUZlazZ9m"
+  },
+  {
+   "name": "DRAM",
+   "popularity": 74,
+   "image_url": "https://i.scdn.co/image/419eeb0254440ba6833657689dc4d4e56176704c",
+   "visitado": true,
+   "degree_weight": 29,
+   "degreeCent": 0.007422209534684556,
+   "closeness": 0.28677855096193205,
+   "betweenness": 0.00873707141906786,
+   "pagerank": 0.002217827850514789,
+   "comunidad": 6,
+   "id": "spotify:artist:5M0lbkGluOPXLeFjApw8r8"
+  },
+  {
+   "name": "Labrinth",
+   "popularity": 73,
+   "image_url": "https://i.scdn.co/image/a1b3b9e74c18f244a73e8fec5c77d647414f8053",
+   "visitado": true,
+   "degree_weight": 32,
+   "degreeCent": 0.007136739937196689,
+   "closeness": 0.29089852184022585,
+   "betweenness": 0.012059861353429945,
+   "pagerank": 0.002562598791938077,
+   "comunidad": 5,
+   "id": "spotify:artist:2feDdbD5araYcm6JhFHHw7"
+  },
+  {
+   "name": "Tay Grin",
+   "popularity": 15,
+   "image_url": "https://i.scdn.co/image/480a679f83a1f15563e7d22f295c7048cdb36c6a",
+   "visitado": true,
+   "degree_weight": 4,
+   "degreeCent": 0.0011418783899514702,
+   "closeness": 0.19569832402234638,
+   "betweenness": 0.0017123284879583512,
+   "pagerank": 0.0005456734624114444,
+   "comunidad": 7,
+   "id": "spotify:artist:5vTvOGewwSyHF0GvmXsOYz"
+  },
+  {
+   "name": "ODESZA",
+   "popularity": 76,
+   "image_url": "https://i.scdn.co/image/74a2eb1ad773180e5fa2a6b17154fe054631a73f",
+   "visitado": true,
+   "degree_weight": 100,
+   "degreeCent": 0.015986297459320585,
+   "closeness": 0.24684659291099992,
+   "betweenness": 0.028827157546889578,
+   "pagerank": 0.0068208051730860916,
+   "comunidad": 2,
+   "id": "spotify:artist:21mKp7DqtSNHhCAU2ugvUw"
+  },
+  {
+   "name": "Alesso",
+   "popularity": 80,
+   "image_url": "https://i.scdn.co/image/021f014a6809e5b7f1ef1c18bf247fd9ccacb193",
+   "visitado": true,
+   "degree_weight": 85,
+   "degreeCent": 0.007422209534684556,
+   "closeness": 0.29245283018867924,
+   "betweenness": 0.01182480772995042,
+   "pagerank": 0.0026543204317918505,
+   "comunidad": 3,
+   "id": "spotify:artist:4AVFqumd2ogHFlRbKIjp1t"
+  },
+  {
+   "name": "Laidback Luke",
+   "popularity": 64,
+   "image_url": "https://i.scdn.co/image/d0bba316ceadf95b3e731ed14697af1ead59d0ca",
+   "degree_weight": 28,
+   "degreeCent": 0.0014273479874393378,
+   "closeness": 0.2766764078666772,
+   "betweenness": 0.003654342487204454,
+   "pagerank": 0.0004657280496502638,
+   "comunidad": 2,
+   "id": "spotify:artist:53cQZtWDwDJwVCNZlfJ6Qk"
+  },
+  {
+   "name": "Roger McGuinn",
+   "popularity": 37,
+   "image_url": "https://i.scdn.co/image/5e76ea2ecb8d382085651e28cda90919de30c973",
+   "visitado": true,
+   "degree_weight": 57,
+   "degreeCent": 0.0031401655723665434,
+   "closeness": 0.18552060163118314,
+   "betweenness": 0.0365907397573281,
+   "pagerank": 0.0012664908054919068,
+   "comunidad": 5,
+   "id": "spotify:artist:3ExrAwcOqgGjt9kFRwdM76"
+  },
+  {
+   "name": "CeeLo Green",
+   "popularity": 66,
+   "image_url": "https://i.scdn.co/image/c01d5dc75aa64fe8f02f328cd7aba52be513ec25",
+   "visitado": true,
+   "degree_weight": 42,
+   "degreeCent": 0.009705966314587497,
+   "closeness": 0.29358028830036875,
+   "betweenness": 0.01923594647158436,
+   "pagerank": 0.0031675417543298593,
+   "comunidad": 2,
+   "id": "spotify:artist:5nLYd9ST4Cnwy6NHaCxbj8"
+  },
+  {
+   "name": "Travis Scott",
+   "popularity": 90,
+   "image_url": "https://i.scdn.co/image/bbab705fecb1133cf5d3580f7cdb32966797b7e4",
+   "visitado": true,
+   "degree_weight": 81,
+   "degreeCent": 0.009135027119611762,
+   "closeness": 0.29546221322537114,
+   "betweenness": 0.003629488318887566,
+   "pagerank": 0.0022504825306711154,
+   "comunidad": 4,
+   "id": "spotify:artist:0Y5tJX1MQlPlqiwlOH1tJY"
+  },
+  {
+   "name": "Pete Seeger",
+   "popularity": 45,
+   "image_url": "https://i.scdn.co/image/043157bde141dde6d3663bbbeadcb65fb8183d05",
+   "visitado": true,
+   "degree_weight": 9,
+   "degreeCent": 0.0014273479874393378,
+   "closeness": 0.16043784922597784,
+   "betweenness": 0.0019936349378362667,
+   "pagerank": 0.0006279641442381135,
+   "comunidad": 5,
+   "id": "spotify:artist:1P9syEkl41IFowWIJN7ZBY"
+  },
+  {
+   "name": "Damian Marley",
+   "popularity": 70,
+   "image_url": "https://i.scdn.co/image/f05f2667aac2bbccd9bf8fcc658b647533257f16",
+   "visitado": true,
+   "degree_weight": 67,
+   "degreeCent": 0.008849557522123894,
+   "closeness": 0.331597879591064,
+   "betweenness": 0.08493375253365239,
+   "pagerank": 0.0028582920560558927,
+   "comunidad": 8,
+   "id": "spotify:artist:3QJzdZJYIAcoET1GcfpNGi"
+  },
+  {
+   "name": "Black Thought",
+   "popularity": 55,
+   "image_url": "https://i.scdn.co/image/a55c5adb3c0af9b37686a2156504825de6f506ad",
+   "visitado": true,
+   "degree_weight": 64,
+   "degreeCent": 0.004852983157293748,
+   "closeness": 0.27753129456504516,
+   "betweenness": 0.004996376951191219,
+   "pagerank": 0.0015023970457584874,
+   "comunidad": 8,
+   "id": "spotify:artist:6DJEUXZm0e2rAohdoZ5Voo"
+  },
+  {
+   "name": "Kelis",
+   "popularity": 65,
+   "image_url": "https://i.scdn.co/image/977668064535a289d35377405b81673d22355411",
+   "degree_weight": 13,
+   "degreeCent": 0.0011418783899514702,
+   "closeness": 0.28037457979830316,
+   "betweenness": 0.0009853378256375529,
+   "pagerank": 0.00035582629730902766,
+   "comunidad": 2,
+   "id": "spotify:artist:0IF46mUS8NXjgHabxk2MCM"
+  },
+  {
+   "name": "James Hype",
+   "popularity": 65,
+   "image_url": "https://i.scdn.co/image/979cfe8405ce897e028e7dbdd408c5262d04f2ce",
+   "visitado": true,
+   "degree_weight": 12,
+   "degreeCent": 0.001998287182415073,
+   "closeness": 0.2630274816038444,
+   "betweenness": 0.0030080976596274706,
+   "pagerank": 0.0008006191809215092,
+   "comunidad": 2,
+   "id": "spotify:artist:43BxCL6t4c73BQnIJtry5v"
+  },
+  {
+   "name": "John Legend",
+   "popularity": 81,
+   "image_url": "https://i.scdn.co/image/2bcc50240e556e832fde021700fdca5629d31440",
+   "visitado": true,
+   "degree_weight": 85,
+   "degreeCent": 0.013417071081929775,
+   "closeness": 0.30102260032654465,
+   "betweenness": 0.018490102653399714,
+   "pagerank": 0.004239020091397137,
+   "comunidad": 8,
+   "id": "spotify:artist:5y2Xq6xcjJb2jVM54GHK3t"
+  },
+  {
+   "name": "Pharrell Williams",
+   "popularity": 82,
+   "image_url": "https://i.scdn.co/image/249c9725cd900c562d8d70d29c15b234dd7c04b1",
+   "visitado": true,
+   "degree_weight": 95,
+   "degreeCent": 0.006565800742220954,
+   "closeness": 0.35719384113388397,
+   "betweenness": 0.10820602953317647,
+   "pagerank": 0.0019234131767842462,
+   "comunidad": 1,
+   "id": "spotify:artist:2RdwBSPQiwcmiDo9kixcl8"
+  },
+  {
+   "name": "will.i.am",
+   "popularity": 74,
+   "image_url": "https://i.scdn.co/image/d9e6047498dc100048c4597be2aa1d20ebf6df40",
+   "degree_weight": 13,
+   "degreeCent": 0.001998287182415073,
+   "closeness": 0.2879335854019398,
+   "betweenness": 0.002420904030025487,
+   "pagerank": 0.0005759080701545174,
+   "comunidad": 8,
+   "id": "spotify:artist:085pc2PYOi8bGKj0PNjekA"
+  },
+  {
+   "name": "Yo Gotti",
+   "popularity": 80,
+   "image_url": "https://i.scdn.co/image/00a43a70e679434c46002f4f76e7486dc9dce271",
+   "degree_weight": 76,
+   "degreeCent": 0.0011418783899514702,
+   "closeness": 0.2769169960474308,
+   "betweenness": 0.0008987647232325557,
+   "pagerank": 0.00034678720965586736,
+   "comunidad": 1,
+   "id": "spotify:artist:6Ha4aES39QiVjR0L2lwuwq"
+  },
+  {
+   "name": "Four Tet",
+   "popularity": 62,
+   "image_url": "https://i.scdn.co/image/f96458025a0640bf1d3c8f764a42ec21d4db1eae",
+   "visitado": true,
+   "degree_weight": 32,
+   "degreeCent": 0.008278618327148159,
+   "closeness": 0.24243892310886567,
+   "betweenness": 0.01553858680751032,
+   "pagerank": 0.00367712258257189,
+   "comunidad": 2,
+   "id": "spotify:artist:7Eu1txygG6nJttLHbZdQOh"
+  },
+  {
+   "name": "PARTYNEXTDOOR",
+   "popularity": 79,
+   "image_url": "https://i.scdn.co/image/0adc1fd8ec4edd60a110b53ce3e1d2f264ac32a0",
+   "visitado": true,
+   "degree_weight": 13,
+   "degreeCent": 0.0022837567799029405,
+   "closeness": 0.2970406173153566,
+   "betweenness": 0.0015024324396692259,
+   "pagerank": 0.0006070915575488937,
+   "comunidad": 4,
+   "id": "spotify:artist:2HPaUgqeutzr3jx5a9WyDV"
+  },
+  {
+   "name": "Usher",
+   "popularity": 81,
+   "image_url": "https://i.scdn.co/image/2b6609f142389ae1505fd090db3861eb34ce2e13",
+   "degree_weight": 8,
+   "degreeCent": 0.0011418783899514702,
+   "closeness": 0.2804868284089999,
+   "betweenness": 0.0010893471659879405,
+   "pagerank": 0.0003510489713739131,
+   "comunidad": 2,
+   "id": "spotify:artist:23zg3TcAtWQy7J6upgbUnj"
+  },
+  {
+   "name": "J Balvin",
+   "popularity": 95,
+   "image_url": "https://i.scdn.co/image/1a624857d6a7de5183c0fd6737ace7a655dd6edf",
+   "visitado": true,
+   "degree_weight": 79,
+   "degreeCent": 0.014844419069369112,
+   "closeness": 0.3058587269710993,
+   "betweenness": 0.023041311717033656,
+   "pagerank": 0.005078244421633016,
+   "comunidad": 3,
+   "id": "spotify:artist:1vyhD5VmyZ7KMfW5gqLgo5"
+  },
+  {
+   "name": "Ne-Yo",
+   "popularity": 80,
+   "image_url": "https://i.scdn.co/image/d48ffaffc20a3c76f79d81b7b940df9a380b5e7c",
+   "degree_weight": 16,
+   "degreeCent": 0.0014273479874393378,
+   "closeness": 0.2982799727520436,
+   "betweenness": 0.0015210904964674647,
+   "pagerank": 0.00044451806366968116,
+   "comunidad": 3,
+   "id": "spotify:artist:21E3waRsmPlU7jZsS13rcj"
+  },
+  {
+   "name": "Gryffin",
+   "popularity": 72,
+   "image_url": "https://i.scdn.co/image/3cc163f6e55db9c41a13b8d6ae222e27a8852904",
+   "visitado": true,
+   "degree_weight": 54,
+   "degreeCent": 0.009705966314587497,
+   "closeness": 0.24805268375584194,
+   "betweenness": 0.016619989713821465,
+   "pagerank": 0.0039101607655763395,
+   "comunidad": 3,
+   "id": "spotify:artist:2ZRQcIgzPCVaT9XKhXZIzh"
+  },
+  {
+   "name": "Bruce Springsteen",
+   "popularity": 75,
+   "visitado": true,
+   "degree_weight": 7,
+   "degreeCent": 0.0017128175849272054,
+   "closeness": 0.2087231126735387,
+   "betweenness": 0.015036278315090553,
+   "pagerank": 0.0007120240983675845,
+   "comunidad": 5,
+   "id": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+  },
+  {
+   "name": "The Weeknd",
+   "popularity": 95,
+   "image_url": "https://i.scdn.co/image/a5fa0d35a5070867261d100b879cac028fe96775",
+   "degree_weight": 16,
+   "degreeCent": 0.0022837567799029405,
+   "closeness": 0.2791457486652323,
+   "betweenness": 0.00034116966982369586,
+   "pagerank": 0.0005707985120397383,
+   "comunidad": 1,
+   "id": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+  },
+  {
+   "name": "The-Dream",
+   "popularity": 70,
+   "image_url": "https://i.scdn.co/image/892f534bad4b46b99c4f7e277674fae647da379a",
+   "degree_weight": 10,
+   "degreeCent": 0.0011418783899514702,
+   "closeness": 0.2776852952833928,
+   "betweenness": 0.0002470261672159603,
+   "pagerank": 0.0003310259706318526,
+   "comunidad": 1,
+   "id": "spotify:artist:1W3FSF1BLpY3hlVIgvenLz"
+  },
+  {
+   "name": "Jeezy",
+   "popularity": 75,
+   "image_url": "https://i.scdn.co/image/64bd30ed162690e0de19876c29c306327ed2de12",
+   "degree_weight": 28,
+   "degreeCent": 0.0017128175849272054,
+   "closeness": 0.28161427767505426,
+   "betweenness": 0.0005130503832505944,
+   "pagerank": 0.00046168386218007576,
+   "comunidad": 1,
+   "id": "spotify:artist:4yBK75WVCQXej1p04GWqxH"
+  },
+  {
+   "name": "Offset",
+   "popularity": 86,
+   "image_url": "https://i.scdn.co/image/16b80e3c714cbff18b8b08895c51b7653d8f148e",
+   "degree_weight": 16,
+   "degreeCent": 0.0022837567799029405,
+   "closeness": 0.2759354076408035,
+   "betweenness": 0.001085759754073498,
+   "pagerank": 0.0006095544595513158,
+   "comunidad": 4,
+   "id": "spotify:artist:4DdkRBBYG6Yk9Ka8tdJ9BW"
+  },
+  {
+   "name": "Pink Panda",
+   "popularity": 54,
+   "image_url": "https://i.scdn.co/image/7f6cea048471332fb8c3dc8b6bb8046ee3496712",
+   "visitado": true,
+   "degree_weight": 45,
+   "degreeCent": 0.0034256351698544107,
+   "closeness": 0.2937279892671474,
+   "betweenness": 0.005081798827926222,
+   "pagerank": 0.0013078256800208507,
+   "comunidad": 2,
+   "id": "spotify:artist:4DBNGKCWVHaxuDNBAgTiJH"
+  },
+  {
+   "name": "Ti\u00ebsto",
+   "popularity": 80,
+   "image_url": "https://i.scdn.co/image/75b06fb7f4eef88d06067ad277840ccfec3eb1b1",
+   "degree_weight": 12,
+   "degreeCent": 0.0017128175849272054,
+   "closeness": 0.27440075199749336,
+   "betweenness": 0.0019082053684213703,
+   "pagerank": 0.0005283862987241149,
+   "comunidad": 6,
+   "id": "spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z"
+  },
+  {
+   "name": "Afrojack",
+   "popularity": 77,
+   "image_url": "https://i.scdn.co/image/bec25756309b1f7af565252f78709d69a8f11974",
+   "visitado": true,
+   "degree_weight": 161,
+   "degreeCent": 0.02226662860405367,
+   "closeness": 0.3224410898379971,
+   "betweenness": 0.03719547526040018,
+   "pagerank": 0.008074976568940866,
+   "comunidad": 2,
+   "id": "spotify:artist:4D75GcNG95ebPtNvoNVXhz"
+  },
+  {
+   "name": "Eve",
+   "popularity": 65,
+   "image_url": "https://i.scdn.co/image/68bd11923693d8e6d37f09fd69025b4f5f781ed3",
+   "degree_weight": 7,
+   "degreeCent": 0.0011418783899514702,
+   "closeness": 0.26471699539031207,
+   "betweenness": 0.000555758990859781,
+   "pagerank": 0.00035300712658214425,
+   "comunidad": 8,
+   "id": "spotify:artist:4d3yvTptO48nOYTPBcPFZC"
+  },
+  {
+   "name": "Cardi B",
+   "popularity": 93,
+   "image_url": "https://i.scdn.co/image/928ee3ac5f9ade457c0fd23e31d2b47401026512",
+   "visitado": true,
+   "degree_weight": 31,
+   "degreeCent": 0.006280331144733087,
+   "closeness": 0.29546221322537114,
+   "betweenness": 0.007454717220596235,
+   "pagerank": 0.0017902444643323673,
+   "comunidad": 4,
+   "id": "spotify:artist:4kYSro6naA4h99UJvo89HB"
+  },
+  {
+   "name": "Swizz Beatz",
+   "popularity": 62,
+   "image_url": "https://i.scdn.co/image/5217d659e223f7d06926e0d62c22c024a1adad14",
+   "degree_weight": 13,
+   "degreeCent": 0.0011418783899514702,
+   "closeness": 0.2819542820347714,
+   "betweenness": 0.0008383801649523625,
+   "pagerank": 0.00037066347551474767,
+   "comunidad": 8,
+   "id": "spotify:artist:2cADQgiLMjNhbsfeN52Bf3"
+  },
+  {
+   "name": "Tom Morello",
+   "popularity": 54,
+   "image_url": "https://i.scdn.co/image/7b8ab4c506b4dd2d17a4225163a39fa42911726f",
+   "visitado": true,
+   "degree_weight": 8,
+   "degreeCent": 0.0017128175849272054,
+   "closeness": 0.2594622620546626,
+   "betweenness": 0.03707871601122528,
+   "pagerank": 0.000610776367926661,
+   "comunidad": 5,
+   "id": "spotify:artist:74NBPbyyftqJ4SpDZ4c1Ed"
+  },
+  {
+   "name": "Waka Flocka Flame",
+   "popularity": 72,
+   "image_url": "https://i.scdn.co/image/6faeed735eb5b980b20bfebfc071f942a0285a29",
+   "degree_weight": 188,
+   "degreeCent": 0.0011418783899514702,
+   "closeness": 0.28558617316158486,
+   "betweenness": 0.0019925729636265425,
+   "pagerank": 0.0003557068260311812,
+   "comunidad": 1,
+   "id": "spotify:artist:6f4XkbvYlXMH0QgVRzW0sM"
+  },
+  {
+   "name": "Paul Oakenfold",
+   "popularity": 50,
+   "image_url": "https://i.scdn.co/image/ffd7d612b8a313078af3b8247ee806c10ff728a4",
+   "visitado": true,
+   "degree_weight": 1625,
+   "degreeCent": 0.22923208678275764,
+   "closeness": 0.3321008722032613,
+   "betweenness": 0.3998591039616955,
+   "pagerank": 0.10242214100533074,
+   "comunidad": 3,
+   "id": "spotify:artist:5MO2kbaGGA2a8kL4c9qqHq"
+  },
+  {
+   "name": "Knife Party",
+   "popularity": 60,
+   "image_url": "https://i.scdn.co/image/a8ccad26c518b156798bb7380fb4617f6773af14",
+   "visitado": true,
+   "degree_weight": 12,
+   "degreeCent": 0.001998287182415073,
+   "closeness": 0.25400623595098254,
+   "betweenness": 0.013001014277191275,
+   "pagerank": 0.0007497469942886614,
+   "comunidad": 5,
+   "id": "spotify:artist:2DuJi13MWHjRHrqRUwk8vH"
+  },
+  {
+   "name": "Julia Michaels",
+   "popularity": 84,
+   "image_url": "https://i.scdn.co/image/dcae6ff807c0ca36f8a27cf754d6b5e810065dfe",
+   "visitado": true,
+   "degree_weight": 18,
+   "degreeCent": 0.003996574364830146,
+   "closeness": 0.26570084951456313,
+   "betweenness": 0.0050922398575562805,
+   "pagerank": 0.0013363395393711278,
+   "comunidad": 6,
+   "id": "spotify:artist:0ZED1XzwlLHW4ZaG4lOT6m"
+  },
+  {
+   "name": "Juicy J",
+   "popularity": 82,
+   "image_url": "https://i.scdn.co/image/c54d9d845e0a2a9e3e6d3874e95c899fd9dca814",
+   "degree_weight": 89,
+   "degreeCent": 0.003711104767342278,
+   "closeness": 0.2969650729060698,
+   "betweenness": 0.0036430146375999407,
+   "pagerank": 0.0009610641481422771,
+   "comunidad": 1,
+   "id": "spotify:artist:5gCRApTajqwbnHHPbr2Fpi"
+  },
+  {
+   "name": "Bobby Brown",
+   "popularity": 58,
+   "image_url": "https://i.scdn.co/image/7d381fcf203f0e83fbcfd5ce485dc9edbe593196",
+   "visitado": true,
+   "degree_weight": 62,
+   "degreeCent": 0.006280331144733087,
+   "closeness": 0.24978608100399316,
+   "betweenness": 0.011955486306670647,
+   "pagerank": 0.0028446587127057017,
+   "comunidad": 8,
+   "id": "spotify:artist:62sPt3fswraiEPnKQpAbdE"
+  },
+  {
+   "name": "Chance The Rapper",
+   "popularity": 83,
+   "image_url": "https://i.scdn.co/image/f5aceffb43876273fa72b7c3c002d7e3218075fd",
+   "degree_weight": 7,
+   "degreeCent": 0.0014273479874393378,
+   "closeness": 0.2640784018092725,
+   "betweenness": 0.00014314445585902885,
+   "pagerank": 0.000383134798399614,
+   "comunidad": 4,
+   "id": "spotify:artist:1anyVhU62p31KFi8MEzkbf"
+  },
+  {
+   "name": "Jessie J",
+   "popularity": 75,
+   "image_url": "https://i.scdn.co/image/9e31f8ad8310c8530a8ce67524f1fb57f6356fc1",
+   "degree_weight": 14,
+   "degreeCent": 0.0011418783899514702,
+   "closeness": 0.27797175051579115,
+   "betweenness": 0.00035363658734634577,
+   "pagerank": 0.0003315153493381997,
+   "comunidad": 3,
+   "id": "spotify:artist:2gsggkzM5R49q6jpPvazou"
+  },
+  {
+   "name": "50 Cent",
+   "popularity": 82,
+   "image_url": "https://i.scdn.co/image/dd031b9c5d1b6eba4a691cd89c954255aae787f2",
+   "degree_weight": 8,
+   "degreeCent": 0.0011418783899514702,
+   "closeness": 0.2846578904599382,
+   "betweenness": 0.00045127842887862635,
+   "pagerank": 0.00035002069252344016,
+   "comunidad": 1,
+   "id": "spotify:artist:3q7HBObVc0L8jNeTe5Gofh"
+  }
+ ],
+ "links": [
+  {
+   "freq": 2,
+   "source": 0,
+   "target": 7
+  },
+  {
+   "freq": 2,
+   "source": 0,
+   "target": 14
+  },
+  {
+   "freq": 2,
+   "source": 0,
+   "target": 23
+  },
+  {
+   "freq": 2,
+   "source": 0,
+   "target": 24
+  },
+  {
+   "freq": 12,
+   "source": 0,
+   "target": 25
+  },
+  {
+   "freq": 2,
+   "source": 0,
+   "target": 27
+  },
+  {
+   "freq": 15,
+   "source": 0,
+   "target": 38
+  },
+  {
+   "freq": 4,
+   "source": 0,
+   "target": 59
+  },
+  {
+   "freq": 5,
+   "source": 0,
+   "target": 61
+  },
+  {
+   "freq": 2,
+   "source": 0,
+   "target": 72
+  },
+  {
+   "freq": 4,
+   "source": 0,
+   "target": 79
+  },
+  {
+   "freq": 2,
+   "source": 0,
+   "target": 81
+  },
+  {
+   "freq": 2,
+   "source": 0,
+   "target": 89
+  },
+  {
+   "freq": 2,
+   "source": 0,
+   "target": 92
+  },
+  {
+   "freq": 2,
+   "source": 0,
+   "target": 97
+  },
+  {
+   "freq": 2,
+   "source": 0,
+   "target": 112
+  },
+  {
+   "freq": 2,
+   "source": 0,
+   "target": 119
+  },
+  {
+   "freq": 1,
+   "source": 0,
+   "target": 127
+  },
+  {
+   "freq": 3,
+   "source": 0,
+   "target": 131
+  },
+  {
+   "freq": 1,
+   "source": 0,
+   "target": 152
+  },
+  {
+   "freq": 2,
+   "source": 0,
+   "target": 169
+  },
+  {
+   "freq": 1,
+   "source": 1,
+   "target": 15
+  },
+  {
+   "freq": 1,
+   "source": 1,
+   "target": 42
+  },
+  {
+   "freq": 9,
+   "source": 2,
+   "target": 127
+  },
+  {
+   "freq": 5,
+   "source": 2,
+   "target": 138
+  },
+  {
+   "freq": 1,
+   "source": 2,
+   "target": 158
+  },
+  {
+   "freq": 1,
+   "source": 2,
+   "target": 175
+  },
+  {
+   "freq": 1,
+   "source": 3,
+   "target": 6
+  },
+  {
+   "freq": 2,
+   "source": 3,
+   "target": 10
+  },
+  {
+   "freq": 2,
+   "source": 3,
+   "target": 15
+  },
+  {
+   "freq": 8,
+   "source": 3,
+   "target": 24
+  },
+  {
+   "freq": 1,
+   "source": 3,
+   "target": 31
+  },
+  {
+   "freq": 6,
+   "source": 3,
+   "target": 47
+  },
+  {
+   "freq": 6,
+   "source": 3,
+   "target": 58
+  },
+  {
+   "freq": 2,
+   "source": 3,
+   "target": 64
+  },
+  {
+   "freq": 2,
+   "source": 3,
+   "target": 71
+  },
+  {
+   "freq": 1,
+   "source": 3,
+   "target": 87
+  },
+  {
+   "freq": 1,
+   "source": 3,
+   "target": 89
+  },
+  {
+   "freq": 2,
+   "source": 3,
+   "target": 92
+  },
+  {
+   "freq": 1,
+   "source": 3,
+   "target": 138
+  },
+  {
+   "freq": 2,
+   "source": 3,
+   "target": 175
+  },
+  {
+   "freq": 98,
+   "source": 4,
+   "target": 24
+  },
+  {
+   "freq": 1,
+   "source": 4,
+   "target": 31
+  },
+  {
+   "freq": 4,
+   "source": 4,
+   "target": 50
+  },
+  {
+   "freq": 12,
+   "source": 4,
+   "target": 92
+  },
+  {
+   "freq": 18,
+   "source": 5,
+   "target": 150
+  },
+  {
+   "freq": 1,
+   "source": 6,
+   "target": 18
+  },
+  {
+   "freq": 2,
+   "source": 6,
+   "target": 41
+  },
+  {
+   "freq": 1,
+   "source": 6,
+   "target": 59
+  },
+  {
+   "freq": 1,
+   "source": 6,
+   "target": 64
+  },
+  {
+   "freq": 1,
+   "source": 6,
+   "target": 67
+  },
+  {
+   "freq": 2,
+   "source": 6,
+   "target": 70
+  },
+  {
+   "freq": 2,
+   "source": 6,
+   "target": 103
+  },
+  {
+   "freq": 1,
+   "source": 6,
+   "target": 134
+  },
+  {
+   "freq": 2,
+   "source": 6,
+   "target": 136
+  },
+  {
+   "freq": 2,
+   "source": 6,
+   "target": 151
+  },
+  {
+   "freq": 2,
+   "source": 6,
+   "target": 155
+  },
+  {
+   "freq": 6,
+   "source": 7,
+   "target": 24
+  },
+  {
+   "freq": 4,
+   "source": 7,
+   "target": 47
+  },
+  {
+   "freq": 5,
+   "source": 7,
+   "target": 64
+  },
+  {
+   "freq": 2,
+   "source": 8,
+   "target": 15
+  },
+  {
+   "freq": 1,
+   "source": 8,
+   "target": 111
+  },
+  {
+   "freq": 6,
+   "source": 8,
+   "target": 123
+  },
+  {
+   "freq": 1,
+   "source": 8,
+   "target": 152
+  },
+  {
+   "freq": 1,
+   "source": 9,
+   "target": 18
+  },
+  {
+   "freq": 1,
+   "source": 9,
+   "target": 48
+  },
+  {
+   "freq": 1,
+   "source": 9,
+   "target": 108
+  },
+  {
+   "freq": 1,
+   "source": 9,
+   "target": 120
+  },
+  {
+   "freq": 3,
+   "source": 10,
+   "target": 34
+  },
+  {
+   "freq": 3,
+   "source": 10,
+   "target": 41
+  },
+  {
+   "freq": 2,
+   "source": 10,
+   "target": 50
+  },
+  {
+   "freq": 1,
+   "source": 10,
+   "target": 58
+  },
+  {
+   "freq": 2,
+   "source": 10,
+   "target": 59
+  },
+  {
+   "freq": 1,
+   "source": 10,
+   "target": 69
+  },
+  {
+   "freq": 1,
+   "source": 10,
+   "target": 77
+  },
+  {
+   "freq": 1,
+   "source": 10,
+   "target": 88
+  },
+  {
+   "freq": 3,
+   "source": 10,
+   "target": 92
+  },
+  {
+   "freq": 1,
+   "source": 10,
+   "target": 97
+  },
+  {
+   "freq": 1,
+   "source": 10,
+   "target": 105
+  },
+  {
+   "freq": 6,
+   "source": 10,
+   "target": 114
+  },
+  {
+   "freq": 1,
+   "source": 10,
+   "target": 116
+  },
+  {
+   "freq": 2,
+   "source": 10,
+   "target": 120
+  },
+  {
+   "freq": 7,
+   "source": 10,
+   "target": 136
+  },
+  {
+   "freq": 2,
+   "source": 10,
+   "target": 140
+  },
+  {
+   "freq": 1,
+   "source": 10,
+   "target": 151
+  },
+  {
+   "freq": 1,
+   "source": 10,
+   "target": 164
+  },
+  {
+   "freq": 2,
+   "source": 10,
+   "target": 184
+  },
+  {
+   "freq": 1,
+   "source": 11,
+   "target": 15
+  },
+  {
+   "freq": 1,
+   "source": 11,
+   "target": 42
+  },
+  {
+   "freq": 1,
+   "source": 12,
+   "target": 46
+  },
+  {
+   "freq": 1,
+   "source": 12,
+   "target": 134
+  },
+  {
+   "freq": 1,
+   "source": 13,
+   "target": 42
+  },
+  {
+   "freq": 1,
+   "source": 13,
+   "target": 118
+  },
+  {
+   "freq": 2,
+   "source": 13,
+   "target": 140
+  },
+  {
+   "freq": 8,
+   "source": 14,
+   "target": 24
+  },
+  {
+   "freq": 1,
+   "source": 14,
+   "target": 60
+  },
+  {
+   "freq": 1,
+   "source": 14,
+   "target": 100
+  },
+  {
+   "freq": 8,
+   "source": 15,
+   "target": 29
+  },
+  {
+   "freq": 6,
+   "source": 15,
+   "target": 41
+  },
+  {
+   "freq": 56,
+   "source": 15,
+   "target": 42
+  },
+  {
+   "freq": 10,
+   "source": 15,
+   "target": 45
+  },
+  {
+   "freq": 2,
+   "source": 15,
+   "target": 53
+  },
+  {
+   "freq": 36,
+   "source": 15,
+   "target": 58
+  },
+  {
+   "freq": 3,
+   "source": 15,
+   "target": 64
+  },
+  {
+   "freq": 2,
+   "source": 15,
+   "target": 67
+  },
+  {
+   "freq": 12,
+   "source": 15,
+   "target": 80
+  },
+  {
+   "freq": 4,
+   "source": 15,
+   "target": 81
+  },
+  {
+   "freq": 8,
+   "source": 15,
+   "target": 111
+  },
+  {
+   "freq": 2,
+   "source": 15,
+   "target": 114
+  },
+  {
+   "freq": 8,
+   "source": 15,
+   "target": 116
+  },
+  {
+   "freq": 32,
+   "source": 15,
+   "target": 134
+  },
+  {
+   "freq": 9,
+   "source": 15,
+   "target": 138
+  },
+  {
+   "freq": 4,
+   "source": 15,
+   "target": 149
+  },
+  {
+   "freq": 2,
+   "source": 15,
+   "target": 156
+  },
+  {
+   "freq": 4,
+   "source": 15,
+   "target": 158
+  },
+  {
+   "freq": 2,
+   "source": 15,
+   "target": 160
+  },
+  {
+   "freq": 4,
+   "source": 15,
+   "target": 164
+  },
+  {
+   "freq": 1,
+   "source": 15,
+   "target": 165
+  },
+  {
+   "freq": 6,
+   "source": 15,
+   "target": 166
+  },
+  {
+   "freq": 1,
+   "source": 15,
+   "target": 173
+  },
+  {
+   "freq": 35,
+   "source": 15,
+   "target": 175
+  },
+  {
+   "freq": 2,
+   "source": 15,
+   "target": 187
+  },
+  {
+   "freq": 6,
+   "source": 16,
+   "target": 115
+  },
+  {
+   "freq": 3,
+   "source": 16,
+   "target": 124
+  },
+  {
+   "freq": 1,
+   "source": 16,
+   "target": 129
+  },
+  {
+   "freq": 1,
+   "source": 16,
+   "target": 154
+  },
+  {
+   "freq": 2,
+   "source": 17,
+   "target": 47
+  },
+  {
+   "freq": 1,
+   "source": 17,
+   "target": 94
+  },
+  {
+   "freq": 1,
+   "source": 17,
+   "target": 127
+  },
+  {
+   "freq": 1,
+   "source": 17,
+   "target": 165
+  },
+  {
+   "freq": 1,
+   "source": 18,
+   "target": 24
+  },
+  {
+   "freq": 1,
+   "source": 18,
+   "target": 25
+  },
+  {
+   "freq": 1,
+   "source": 18,
+   "target": 28
+  },
+  {
+   "freq": 1,
+   "source": 18,
+   "target": 35
+  },
+  {
+   "freq": 2,
+   "source": 18,
+   "target": 38
+  },
+  {
+   "freq": 1,
+   "source": 18,
+   "target": 40
+  },
+  {
+   "freq": 1,
+   "source": 18,
+   "target": 47
+  },
+  {
+   "freq": 2,
+   "source": 18,
+   "target": 48
+  },
+  {
+   "freq": 1,
+   "source": 18,
+   "target": 58
+  },
+  {
+   "freq": 1,
+   "source": 18,
+   "target": 60
+  },
+  {
+   "freq": 2,
+   "source": 18,
+   "target": 61
+  },
+  {
+   "freq": 1,
+   "source": 18,
+   "target": 87
+  },
+  {
+   "freq": 2,
+   "source": 18,
+   "target": 92
+  },
+  {
+   "freq": 1,
+   "source": 18,
+   "target": 110
+  },
+  {
+   "freq": 5,
+   "source": 18,
+   "target": 118
+  },
+  {
+   "freq": 4,
+   "source": 18,
+   "target": 131
+  },
+  {
+   "freq": 1,
+   "source": 18,
+   "target": 135
+  },
+  {
+   "freq": 3,
+   "source": 18,
+   "target": 138
+  },
+  {
+   "freq": 2,
+   "source": 18,
+   "target": 148
+  },
+  {
+   "freq": 1,
+   "source": 18,
+   "target": 165
+  },
+  {
+   "freq": 1,
+   "source": 18,
+   "target": 167
+  },
+  {
+   "freq": 1,
+   "source": 18,
+   "target": 183
+  },
+  {
+   "freq": 2,
+   "source": 19,
+   "target": 31
+  },
+  {
+   "freq": 1,
+   "source": 19,
+   "target": 58
+  },
+  {
+   "freq": 2,
+   "source": 19,
+   "target": 64
+  },
+  {
+   "freq": 1,
+   "source": 19,
+   "target": 94
+  },
+  {
+   "freq": 1,
+   "source": 19,
+   "target": 104
+  },
+  {
+   "freq": 2,
+   "source": 19,
+   "target": 127
+  },
+  {
+   "freq": 1,
+   "source": 19,
+   "target": 184
+  },
+  {
+   "freq": 4,
+   "source": 20,
+   "target": 24
+  },
+  {
+   "freq": 2,
+   "source": 20,
+   "target": 48
+  },
+  {
+   "freq": 4,
+   "source": 20,
+   "target": 58
+  },
+  {
+   "freq": 1,
+   "source": 20,
+   "target": 131
+  },
+  {
+   "freq": 3,
+   "source": 21,
+   "target": 24
+  },
+  {
+   "freq": 2,
+   "source": 21,
+   "target": 25
+  },
+  {
+   "freq": 1,
+   "source": 21,
+   "target": 31
+  },
+  {
+   "freq": 4,
+   "source": 21,
+   "target": 47
+  },
+  {
+   "freq": 1,
+   "source": 21,
+   "target": 50
+  },
+  {
+   "freq": 1,
+   "source": 21,
+   "target": 63
+  },
+  {
+   "freq": 1,
+   "source": 21,
+   "target": 87
+  },
+  {
+   "freq": 2,
+   "source": 21,
+   "target": 177
+  },
+  {
+   "freq": 1,
+   "source": 22,
+   "target": 76
+  },
+  {
+   "freq": 1,
+   "source": 22,
+   "target": 86
+  },
+  {
+   "freq": 1,
+   "source": 22,
+   "target": 106
+  },
+  {
+   "freq": 2,
+   "source": 22,
+   "target": 179
+  },
+  {
+   "freq": 2,
+   "source": 23,
+   "target": 55
+  },
+  {
+   "freq": 2,
+   "source": 23,
+   "target": 109
+  },
+  {
+   "freq": 1,
+   "source": 23,
+   "target": 127
+  },
+  {
+   "freq": 5,
+   "source": 24,
+   "target": 25
+  },
+  {
+   "freq": 4,
+   "source": 24,
+   "target": 29
+  },
+  {
+   "freq": 60,
+   "source": 24,
+   "target": 31
+  },
+  {
+   "freq": 2,
+   "source": 24,
+   "target": 34
+  },
+  {
+   "freq": 12,
+   "source": 24,
+   "target": 41
+  },
+  {
+   "freq": 12,
+   "source": 24,
+   "target": 45
+  },
+  {
+   "freq": 8,
+   "source": 24,
+   "target": 47
+  },
+  {
+   "freq": 164,
+   "source": 24,
+   "target": 50
+  },
+  {
+   "freq": 29,
+   "source": 24,
+   "target": 58
+  },
+  {
+   "freq": 35,
+   "source": 24,
+   "target": 59
+  },
+  {
+   "freq": 6,
+   "source": 24,
+   "target": 64
+  },
+  {
+   "freq": 8,
+   "source": 24,
+   "target": 67
+  },
+  {
+   "freq": 16,
+   "source": 24,
+   "target": 68
+  },
+  {
+   "freq": 6,
+   "source": 24,
+   "target": 69
+  },
+  {
+   "freq": 2,
+   "source": 24,
+   "target": 70
+  },
+  {
+   "freq": 11,
+   "source": 24,
+   "target": 72
+  },
+  {
+   "freq": 6,
+   "source": 24,
+   "target": 77
+  },
+  {
+   "freq": 22,
+   "source": 24,
+   "target": 79
+  },
+  {
+   "freq": 4,
+   "source": 24,
+   "target": 81
+  },
+  {
+   "freq": 46,
+   "source": 24,
+   "target": 92
+  },
+  {
+   "freq": 2,
+   "source": 24,
+   "target": 94
+  },
+  {
+   "freq": 12,
+   "source": 24,
+   "target": 95
+  },
+  {
+   "freq": 4,
+   "source": 24,
+   "target": 96
+  },
+  {
+   "freq": 4,
+   "source": 24,
+   "target": 103
+  },
+  {
+   "freq": 2,
+   "source": 24,
+   "target": 108
+  },
+  {
+   "freq": 2,
+   "source": 24,
+   "target": 112
+  },
+  {
+   "freq": 2,
+   "source": 24,
+   "target": 114
+  },
+  {
+   "freq": 8,
+   "source": 24,
+   "target": 120
+  },
+  {
+   "freq": 8,
+   "source": 24,
+   "target": 131
+  },
+  {
+   "freq": 2,
+   "source": 24,
+   "target": 134
+  },
+  {
+   "freq": 10,
+   "source": 24,
+   "target": 136
+  },
+  {
+   "freq": 2,
+   "source": 24,
+   "target": 139
+  },
+  {
+   "freq": 2,
+   "source": 24,
+   "target": 141
+  },
+  {
+   "freq": 4,
+   "source": 24,
+   "target": 152
+  },
+  {
+   "freq": 6,
+   "source": 24,
+   "target": 159
+  },
+  {
+   "freq": 70,
+   "source": 24,
+   "target": 161
+  },
+  {
+   "freq": 2,
+   "source": 24,
+   "target": 164
+  },
+  {
+   "freq": 2,
+   "source": 24,
+   "target": 166
+  },
+  {
+   "freq": 2,
+   "source": 24,
+   "target": 169
+  },
+  {
+   "freq": 14,
+   "source": 24,
+   "target": 171
+  },
+  {
+   "freq": 2,
+   "source": 24,
+   "target": 172
+  },
+  {
+   "freq": 8,
+   "source": 24,
+   "target": 178
+  },
+  {
+   "freq": 182,
+   "source": 24,
+   "target": 180
+  },
+  {
+   "freq": 3,
+   "source": 24,
+   "target": 184
+  },
+  {
+   "freq": 4,
+   "source": 24,
+   "target": 188
+  },
+  {
+   "freq": 2,
+   "source": 25,
+   "target": 27
+  },
+  {
+   "freq": 2,
+   "source": 25,
+   "target": 34
+  },
+  {
+   "freq": 4,
+   "source": 25,
+   "target": 38
+  },
+  {
+   "freq": 2,
+   "source": 25,
+   "target": 41
+  },
+  {
+   "freq": 2,
+   "source": 25,
+   "target": 56
+  },
+  {
+   "freq": 2,
+   "source": 25,
+   "target": 59
+  },
+  {
+   "freq": 1,
+   "source": 25,
+   "target": 60
+  },
+  {
+   "freq": 1,
+   "source": 25,
+   "target": 71
+  },
+  {
+   "freq": 2,
+   "source": 25,
+   "target": 72
+  },
+  {
+   "freq": 2,
+   "source": 25,
+   "target": 85
+  },
+  {
+   "freq": 2,
+   "source": 25,
+   "target": 92
+  },
+  {
+   "freq": 2,
+   "source": 25,
+   "target": 112
+  },
+  {
+   "freq": 1,
+   "source": 25,
+   "target": 138
+  },
+  {
+   "freq": 1,
+   "source": 25,
+   "target": 144
+  },
+  {
+   "freq": 2,
+   "source": 25,
+   "target": 179
+  },
+  {
+   "freq": 4,
+   "source": 25,
+   "target": 184
+  },
+  {
+   "freq": 1,
+   "source": 26,
+   "target": 114
+  },
+  {
+   "freq": 1,
+   "source": 27,
+   "target": 50
+  },
+  {
+   "freq": 1,
+   "source": 27,
+   "target": 102
+  },
+  {
+   "freq": 1,
+   "source": 27,
+   "target": 131
+  },
+  {
+   "freq": 2,
+   "source": 28,
+   "target": 90
+  },
+  {
+   "freq": 1,
+   "source": 29,
+   "target": 31
+  },
+  {
+   "freq": 1,
+   "source": 29,
+   "target": 35
+  },
+  {
+   "freq": 1,
+   "source": 29,
+   "target": 87
+  },
+  {
+   "freq": 2,
+   "source": 30,
+   "target": 58
+  },
+  {
+   "freq": 1,
+   "source": 30,
+   "target": 111
+  },
+  {
+   "freq": 1,
+   "source": 30,
+   "target": 123
+  },
+  {
+   "freq": 1,
+   "source": 30,
+   "target": 152
+  },
+  {
+   "freq": 1,
+   "source": 31,
+   "target": 34
+  },
+  {
+   "freq": 1,
+   "source": 31,
+   "target": 41
+  },
+  {
+   "freq": 3,
+   "source": 31,
+   "target": 47
+  },
+  {
+   "freq": 15,
+   "source": 31,
+   "target": 50
+  },
+  {
+   "freq": 2,
+   "source": 31,
+   "target": 52
+  },
+  {
+   "freq": 1,
+   "source": 31,
+   "target": 58
+  },
+  {
+   "freq": 2,
+   "source": 31,
+   "target": 59
+  },
+  {
+   "freq": 1,
+   "source": 31,
+   "target": 65
+  },
+  {
+   "freq": 2,
+   "source": 31,
+   "target": 72
+  },
+  {
+   "freq": 1,
+   "source": 31,
+   "target": 81
+  },
+  {
+   "freq": 3,
+   "source": 31,
+   "target": 94
+  },
+  {
+   "freq": 1,
+   "source": 31,
+   "target": 111
+  },
+  {
+   "freq": 2,
+   "source": 31,
+   "target": 127
+  },
+  {
+   "freq": 5,
+   "source": 31,
+   "target": 141
+  },
+  {
+   "freq": 2,
+   "source": 31,
+   "target": 152
+  },
+  {
+   "freq": 4,
+   "source": 31,
+   "target": 177
+  },
+  {
+   "freq": 7,
+   "source": 32,
+   "target": 37
+  },
+  {
+   "freq": 2,
+   "source": 32,
+   "target": 46
+  },
+  {
+   "freq": 15,
+   "source": 33,
+   "target": 60
+  },
+  {
+   "freq": 1,
+   "source": 33,
+   "target": 71
+  },
+  {
+   "freq": 1,
+   "source": 33,
+   "target": 89
+  },
+  {
+   "freq": 6,
+   "source": 33,
+   "target": 92
+  },
+  {
+   "freq": 2,
+   "source": 34,
+   "target": 47
+  },
+  {
+   "freq": 2,
+   "source": 34,
+   "target": 58
+  },
+  {
+   "freq": 1,
+   "source": 34,
+   "target": 62
+  },
+  {
+   "freq": 1,
+   "source": 34,
+   "target": 71
+  },
+  {
+   "freq": 2,
+   "source": 34,
+   "target": 92
+  },
+  {
+   "freq": 1,
+   "source": 34,
+   "target": 94
+  },
+  {
+   "freq": 1,
+   "source": 34,
+   "target": 118
+  },
+  {
+   "freq": 23,
+   "source": 34,
+   "target": 131
+  },
+  {
+   "freq": 1,
+   "source": 34,
+   "target": 135
+  },
+  {
+   "freq": 1,
+   "source": 34,
+   "target": 154
+  },
+  {
+   "freq": 1,
+   "source": 34,
+   "target": 175
+  },
+  {
+   "freq": 1,
+   "source": 35,
+   "target": 64
+  },
+  {
+   "freq": 1,
+   "source": 35,
+   "target": 88
+  },
+  {
+   "freq": 1,
+   "source": 35,
+   "target": 115
+  },
+  {
+   "freq": 1,
+   "source": 35,
+   "target": 123
+  },
+  {
+   "freq": 1,
+   "source": 35,
+   "target": 127
+  },
+  {
+   "freq": 1,
+   "source": 35,
+   "target": 134
+  },
+  {
+   "freq": 1,
+   "source": 35,
+   "target": 154
+  },
+  {
+   "freq": 1,
+   "source": 35,
+   "target": 159
+  },
+  {
+   "freq": 1,
+   "source": 35,
+   "target": 176
+  },
+  {
+   "freq": 3,
+   "source": 36,
+   "target": 111
+  },
+  {
+   "freq": 2,
+   "source": 36,
+   "target": 115
+  },
+  {
+   "freq": 1,
+   "source": 36,
+   "target": 129
+  },
+  {
+   "freq": 1,
+   "source": 36,
+   "target": 177
+  },
+  {
+   "freq": 6,
+   "source": 37,
+   "target": 46
+  },
+  {
+   "freq": 1,
+   "source": 37,
+   "target": 98
+  },
+  {
+   "freq": 6,
+   "source": 37,
+   "target": 107
+  },
+  {
+   "freq": 2,
+   "source": 38,
+   "target": 42
+  },
+  {
+   "freq": 2,
+   "source": 38,
+   "target": 47
+  },
+  {
+   "freq": 2,
+   "source": 38,
+   "target": 56
+  },
+  {
+   "freq": 1,
+   "source": 38,
+   "target": 59
+  },
+  {
+   "freq": 2,
+   "source": 38,
+   "target": 60
+  },
+  {
+   "freq": 10,
+   "source": 38,
+   "target": 61
+  },
+  {
+   "freq": 1,
+   "source": 38,
+   "target": 62
+  },
+  {
+   "freq": 3,
+   "source": 38,
+   "target": 64
+  },
+  {
+   "freq": 1,
+   "source": 38,
+   "target": 71
+  },
+  {
+   "freq": 2,
+   "source": 38,
+   "target": 72
+  },
+  {
+   "freq": 2,
+   "source": 38,
+   "target": 85
+  },
+  {
+   "freq": 6,
+   "source": 38,
+   "target": 92
+  },
+  {
+   "freq": 2,
+   "source": 38,
+   "target": 113
+  },
+  {
+   "freq": 1,
+   "source": 38,
+   "target": 131
+  },
+  {
+   "freq": 1,
+   "source": 38,
+   "target": 137
+  },
+  {
+   "freq": 4,
+   "source": 38,
+   "target": 138
+  },
+  {
+   "freq": 1,
+   "source": 38,
+   "target": 152
+  },
+  {
+   "freq": 3,
+   "source": 38,
+   "target": 169
+  },
+  {
+   "freq": 1,
+   "source": 39,
+   "target": 50
+  },
+  {
+   "freq": 2,
+   "source": 39,
+   "target": 87
+  },
+  {
+   "freq": 1,
+   "source": 39,
+   "target": 94
+  },
+  {
+   "freq": 1,
+   "source": 39,
+   "target": 131
+  },
+  {
+   "freq": 6,
+   "source": 41,
+   "target": 47
+  },
+  {
+   "freq": 26,
+   "source": 41,
+   "target": 58
+  },
+  {
+   "freq": 1,
+   "source": 41,
+   "target": 60
+  },
+  {
+   "freq": 1,
+   "source": 41,
+   "target": 75
+  },
+  {
+   "freq": 4,
+   "source": 41,
+   "target": 92
+  },
+  {
+   "freq": 1,
+   "source": 41,
+   "target": 102
+  },
+  {
+   "freq": 2,
+   "source": 41,
+   "target": 131
+  },
+  {
+   "freq": 1,
+   "source": 42,
+   "target": 49
+  },
+  {
+   "freq": 4,
+   "source": 42,
+   "target": 55
+  },
+  {
+   "freq": 1,
+   "source": 42,
+   "target": 63
+  },
+  {
+   "freq": 1,
+   "source": 42,
+   "target": 71
+  },
+  {
+   "freq": 1,
+   "source": 42,
+   "target": 75
+  },
+  {
+   "freq": 1,
+   "source": 42,
+   "target": 78
+  },
+  {
+   "freq": 1,
+   "source": 42,
+   "target": 83
+  },
+  {
+   "freq": 1,
+   "source": 42,
+   "target": 109
+  },
+  {
+   "freq": 2,
+   "source": 42,
+   "target": 111
+  },
+  {
+   "freq": 1,
+   "source": 42,
+   "target": 119
+  },
+  {
+   "freq": 1,
+   "source": 42,
+   "target": 123
+  },
+  {
+   "freq": 1,
+   "source": 42,
+   "target": 143
+  },
+  {
+   "freq": 1,
+   "source": 42,
+   "target": 145
+  },
+  {
+   "freq": 2,
+   "source": 42,
+   "target": 147
+  },
+  {
+   "freq": 1,
+   "source": 42,
+   "target": 162
+  },
+  {
+   "freq": 1,
+   "source": 42,
+   "target": 173
+  },
+  {
+   "freq": 1,
+   "source": 42,
+   "target": 175
+  },
+  {
+   "freq": 1,
+   "source": 43,
+   "target": 46
+  },
+  {
+   "freq": 4,
+   "source": 44,
+   "target": 46
+  },
+  {
+   "freq": 1,
+   "source": 45,
+   "target": 60
+  },
+  {
+   "freq": 1,
+   "source": 45,
+   "target": 64
+  },
+  {
+   "freq": 1,
+   "source": 45,
+   "target": 89
+  },
+  {
+   "freq": 10,
+   "source": 45,
+   "target": 92
+  },
+  {
+   "freq": 1,
+   "source": 45,
+   "target": 151
+  },
+  {
+   "freq": 1,
+   "source": 46,
+   "target": 90
+  },
+  {
+   "freq": 1,
+   "source": 46,
+   "target": 146
+  },
+  {
+   "freq": 2,
+   "source": 47,
+   "target": 50
+  },
+  {
+   "freq": 2,
+   "source": 47,
+   "target": 56
+  },
+  {
+   "freq": 1,
+   "source": 47,
+   "target": 57
+  },
+  {
+   "freq": 4,
+   "source": 47,
+   "target": 58
+  },
+  {
+   "freq": 2,
+   "source": 47,
+   "target": 59
+  },
+  {
+   "freq": 2,
+   "source": 47,
+   "target": 68
+  },
+  {
+   "freq": 3,
+   "source": 47,
+   "target": 71
+  },
+  {
+   "freq": 4,
+   "source": 47,
+   "target": 72
+  },
+  {
+   "freq": 4,
+   "source": 47,
+   "target": 79
+  },
+  {
+   "freq": 2,
+   "source": 47,
+   "target": 81
+  },
+  {
+   "freq": 2,
+   "source": 47,
+   "target": 89
+  },
+  {
+   "freq": 2,
+   "source": 47,
+   "target": 102
+  },
+  {
+   "freq": 4,
+   "source": 47,
+   "target": 108
+  },
+  {
+   "freq": 12,
+   "source": 47,
+   "target": 112
+  },
+  {
+   "freq": 2,
+   "source": 47,
+   "target": 113
+  },
+  {
+   "freq": 2,
+   "source": 47,
+   "target": 119
+  },
+  {
+   "freq": 3,
+   "source": 47,
+   "target": 127
+  },
+  {
+   "freq": 4,
+   "source": 47,
+   "target": 131
+  },
+  {
+   "freq": 2,
+   "source": 47,
+   "target": 137
+  },
+  {
+   "freq": 2,
+   "source": 47,
+   "target": 140
+  },
+  {
+   "freq": 5,
+   "source": 47,
+   "target": 152
+  },
+  {
+   "freq": 6,
+   "source": 47,
+   "target": 158
+  },
+  {
+   "freq": 2,
+   "source": 47,
+   "target": 159
+  },
+  {
+   "freq": 4,
+   "source": 47,
+   "target": 170
+  },
+  {
+   "freq": 2,
+   "source": 47,
+   "target": 171
+  },
+  {
+   "freq": 4,
+   "source": 47,
+   "target": 184
+  },
+  {
+   "freq": 2,
+   "source": 47,
+   "target": 186
+  },
+  {
+   "freq": 2,
+   "source": 48,
+   "target": 50
+  },
+  {
+   "freq": 1,
+   "source": 48,
+   "target": 61
+  },
+  {
+   "freq": 2,
+   "source": 48,
+   "target": 68
+  },
+  {
+   "freq": 8,
+   "source": 48,
+   "target": 93
+  },
+  {
+   "freq": 2,
+   "source": 48,
+   "target": 94
+  },
+  {
+   "freq": 2,
+   "source": 48,
+   "target": 122
+  },
+  {
+   "freq": 1,
+   "source": 48,
+   "target": 127
+  },
+  {
+   "freq": 8,
+   "source": 48,
+   "target": 149
+  },
+  {
+   "freq": 12,
+   "source": 48,
+   "target": 184
+  },
+  {
+   "freq": 1,
+   "source": 49,
+   "target": 65
+  },
+  {
+   "freq": 1,
+   "source": 49,
+   "target": 114
+  },
+  {
+   "freq": 2,
+   "source": 49,
+   "target": 174
+  },
+  {
+   "freq": 1,
+   "source": 49,
+   "target": 183
+  },
+  {
+   "freq": 1,
+   "source": 50,
+   "target": 52
+  },
+  {
+   "freq": 2,
+   "source": 50,
+   "target": 58
+  },
+  {
+   "freq": 1,
+   "source": 50,
+   "target": 59
+  },
+  {
+   "freq": 1,
+   "source": 50,
+   "target": 64
+  },
+  {
+   "freq": 5,
+   "source": 50,
+   "target": 68
+  },
+  {
+   "freq": 1,
+   "source": 50,
+   "target": 71
+  },
+  {
+   "freq": 1,
+   "source": 50,
+   "target": 72
+  },
+  {
+   "freq": 2,
+   "source": 50,
+   "target": 77
+  },
+  {
+   "freq": 26,
+   "source": 50,
+   "target": 92
+  },
+  {
+   "freq": 3,
+   "source": 50,
+   "target": 94
+  },
+  {
+   "freq": 1,
+   "source": 50,
+   "target": 95
+  },
+  {
+   "freq": 1,
+   "source": 50,
+   "target": 96
+  },
+  {
+   "freq": 2,
+   "source": 50,
+   "target": 127
+  },
+  {
+   "freq": 2,
+   "source": 50,
+   "target": 131
+  },
+  {
+   "freq": 2,
+   "source": 50,
+   "target": 136
+  },
+  {
+   "freq": 1,
+   "source": 50,
+   "target": 139
+  },
+  {
+   "freq": 1,
+   "source": 50,
+   "target": 141
+  },
+  {
+   "freq": 1,
+   "source": 50,
+   "target": 144
+  },
+  {
+   "freq": 6,
+   "source": 50,
+   "target": 152
+  },
+  {
+   "freq": 3,
+   "source": 50,
+   "target": 172
+  },
+  {
+   "freq": 1,
+   "source": 50,
+   "target": 184
+  },
+  {
+   "freq": 1,
+   "source": 51,
+   "target": 127
+  },
+  {
+   "freq": 1,
+   "source": 51,
+   "target": 138
+  },
+  {
+   "freq": 2,
+   "source": 51,
+   "target": 175
+  },
+  {
+   "freq": 1,
+   "source": 51,
+   "target": 181
+  },
+  {
+   "freq": 2,
+   "source": 52,
+   "target": 58
+  },
+  {
+   "freq": 1,
+   "source": 52,
+   "target": 131
+  },
+  {
+   "freq": 2,
+   "source": 52,
+   "target": 152
+  },
+  {
+   "freq": 1,
+   "source": 53,
+   "target": 115
+  },
+  {
+   "freq": 1,
+   "source": 53,
+   "target": 129
+  },
+  {
+   "freq": 1,
+   "source": 53,
+   "target": 138
+  },
+  {
+   "freq": 3,
+   "source": 54,
+   "target": 150
+  },
+  {
+   "freq": 1,
+   "source": 55,
+   "target": 143
+  },
+  {
+   "freq": 1,
+   "source": 56,
+   "target": 61
+  },
+  {
+   "freq": 1,
+   "source": 57,
+   "target": 123
+  },
+  {
+   "freq": 1,
+   "source": 57,
+   "target": 144
+  },
+  {
+   "freq": 5,
+   "source": 57,
+   "target": 183
+  },
+  {
+   "freq": 4,
+   "source": 58,
+   "target": 59
+  },
+  {
+   "freq": 2,
+   "source": 58,
+   "target": 68
+  },
+  {
+   "freq": 14,
+   "source": 58,
+   "target": 72
+  },
+  {
+   "freq": 4,
+   "source": 58,
+   "target": 77
+  },
+  {
+   "freq": 4,
+   "source": 58,
+   "target": 79
+  },
+  {
+   "freq": 4,
+   "source": 58,
+   "target": 89
+  },
+  {
+   "freq": 2,
+   "source": 58,
+   "target": 92
+  },
+  {
+   "freq": 16,
+   "source": 58,
+   "target": 102
+  },
+  {
+   "freq": 1,
+   "source": 58,
+   "target": 104
+  },
+  {
+   "freq": 4,
+   "source": 58,
+   "target": 108
+  },
+  {
+   "freq": 1,
+   "source": 58,
+   "target": 111
+  },
+  {
+   "freq": 2,
+   "source": 58,
+   "target": 112
+  },
+  {
+   "freq": 2,
+   "source": 58,
+   "target": 118
+  },
+  {
+   "freq": 1,
+   "source": 58,
+   "target": 123
+  },
+  {
+   "freq": 1,
+   "source": 58,
+   "target": 127
+  },
+  {
+   "freq": 1,
+   "source": 58,
+   "target": 131
+  },
+  {
+   "freq": 2,
+   "source": 58,
+   "target": 135
+  },
+  {
+   "freq": 3,
+   "source": 58,
+   "target": 138
+  },
+  {
+   "freq": 2,
+   "source": 58,
+   "target": 140
+  },
+  {
+   "freq": 2,
+   "source": 58,
+   "target": 141
+  },
+  {
+   "freq": 2,
+   "source": 58,
+   "target": 152
+  },
+  {
+   "freq": 4,
+   "source": 58,
+   "target": 160
+  },
+  {
+   "freq": 4,
+   "source": 58,
+   "target": 171
+  },
+  {
+   "freq": 5,
+   "source": 58,
+   "target": 187
+  },
+  {
+   "freq": 1,
+   "source": 59,
+   "target": 61
+  },
+  {
+   "freq": 1,
+   "source": 59,
+   "target": 71
+  },
+  {
+   "freq": 4,
+   "source": 59,
+   "target": 92
+  },
+  {
+   "freq": 1,
+   "source": 59,
+   "target": 94
+  },
+  {
+   "freq": 1,
+   "source": 59,
+   "target": 111
+  },
+  {
+   "freq": 1,
+   "source": 59,
+   "target": 118
+  },
+  {
+   "freq": 1,
+   "source": 59,
+   "target": 123
+  },
+  {
+   "freq": 2,
+   "source": 59,
+   "target": 131
+  },
+  {
+   "freq": 3,
+   "source": 59,
+   "target": 152
+  },
+  {
+   "freq": 1,
+   "source": 60,
+   "target": 68
+  },
+  {
+   "freq": 3,
+   "source": 60,
+   "target": 72
+  },
+  {
+   "freq": 1,
+   "source": 60,
+   "target": 79
+  },
+  {
+   "freq": 3,
+   "source": 60,
+   "target": 89
+  },
+  {
+   "freq": 1,
+   "source": 60,
+   "target": 103
+  },
+  {
+   "freq": 1,
+   "source": 60,
+   "target": 112
+  },
+  {
+   "freq": 2,
+   "source": 60,
+   "target": 113
+  },
+  {
+   "freq": 1,
+   "source": 60,
+   "target": 136
+  },
+  {
+   "freq": 1,
+   "source": 60,
+   "target": 139
+  },
+  {
+   "freq": 2,
+   "source": 60,
+   "target": 158
+  },
+  {
+   "freq": 2,
+   "source": 60,
+   "target": 159
+  },
+  {
+   "freq": 2,
+   "source": 60,
+   "target": 160
+  },
+  {
+   "freq": 1,
+   "source": 60,
+   "target": 164
+  },
+  {
+   "freq": 1,
+   "source": 60,
+   "target": 170
+  },
+  {
+   "freq": 3,
+   "source": 60,
+   "target": 176
+  },
+  {
+   "freq": 1,
+   "source": 60,
+   "target": 187
+  },
+  {
+   "freq": 2,
+   "source": 60,
+   "target": 188
+  },
+  {
+   "freq": 1,
+   "source": 61,
+   "target": 62
+  },
+  {
+   "freq": 1,
+   "source": 61,
+   "target": 92
+  },
+  {
+   "freq": 2,
+   "source": 61,
+   "target": 127
+  },
+  {
+   "freq": 1,
+   "source": 61,
+   "target": 137
+  },
+  {
+   "freq": 7,
+   "source": 61,
+   "target": 138
+  },
+  {
+   "freq": 1,
+   "source": 61,
+   "target": 144
+  },
+  {
+   "freq": 2,
+   "source": 61,
+   "target": 152
+  },
+  {
+   "freq": 1,
+   "source": 61,
+   "target": 169
+  },
+  {
+   "freq": 1,
+   "source": 61,
+   "target": 177
+  },
+  {
+   "freq": 1,
+   "source": 61,
+   "target": 186
+  },
+  {
+   "freq": 1,
+   "source": 62,
+   "target": 65
+  },
+  {
+   "freq": 1,
+   "source": 62,
+   "target": 94
+  },
+  {
+   "freq": 2,
+   "source": 62,
+   "target": 127
+  },
+  {
+   "freq": 1,
+   "source": 63,
+   "target": 163
+  },
+  {
+   "freq": 4,
+   "source": 63,
+   "target": 174
+  },
+  {
+   "freq": 1,
+   "source": 64,
+   "target": 67
+  },
+  {
+   "freq": 3,
+   "source": 64,
+   "target": 70
+  },
+  {
+   "freq": 1,
+   "source": 64,
+   "target": 77
+  },
+  {
+   "freq": 1,
+   "source": 64,
+   "target": 79
+  },
+  {
+   "freq": 1,
+   "source": 64,
+   "target": 89
+  },
+  {
+   "freq": 1,
+   "source": 64,
+   "target": 91
+  },
+  {
+   "freq": 4,
+   "source": 64,
+   "target": 92
+  },
+  {
+   "freq": 2,
+   "source": 64,
+   "target": 108
+  },
+  {
+   "freq": 1,
+   "source": 64,
+   "target": 112
+  },
+  {
+   "freq": 2,
+   "source": 64,
+   "target": 113
+  },
+  {
+   "freq": 1,
+   "source": 64,
+   "target": 114
+  },
+  {
+   "freq": 1,
+   "source": 64,
+   "target": 120
+  },
+  {
+   "freq": 1,
+   "source": 64,
+   "target": 127
+  },
+  {
+   "freq": 9,
+   "source": 64,
+   "target": 131
+  },
+  {
+   "freq": 2,
+   "source": 64,
+   "target": 134
+  },
+  {
+   "freq": 1,
+   "source": 64,
+   "target": 135
+  },
+  {
+   "freq": 1,
+   "source": 64,
+   "target": 136
+  },
+  {
+   "freq": 1,
+   "source": 64,
+   "target": 154
+  },
+  {
+   "freq": 2,
+   "source": 64,
+   "target": 158
+  },
+  {
+   "freq": 5,
+   "source": 64,
+   "target": 159
+  },
+  {
+   "freq": 5,
+   "source": 64,
+   "target": 166
+  },
+  {
+   "freq": 1,
+   "source": 64,
+   "target": 170
+  },
+  {
+   "freq": 4,
+   "source": 64,
+   "target": 175
+  },
+  {
+   "freq": 3,
+   "source": 64,
+   "target": 178
+  },
+  {
+   "freq": 1,
+   "source": 64,
+   "target": 188
+  },
+  {
+   "freq": 1,
+   "source": 65,
+   "target": 87
+  },
+  {
+   "freq": 2,
+   "source": 65,
+   "target": 92
+  },
+  {
+   "freq": 1,
+   "source": 65,
+   "target": 123
+  },
+  {
+   "freq": 3,
+   "source": 66,
+   "target": 73
+  },
+  {
+   "freq": 1,
+   "source": 66,
+   "target": 114
+  },
+  {
+   "freq": 5,
+   "source": 67,
+   "target": 123
+  },
+  {
+   "freq": 2,
+   "source": 68,
+   "target": 92
+  },
+  {
+   "freq": 5,
+   "source": 68,
+   "target": 94
+  },
+  {
+   "freq": 15,
+   "source": 68,
+   "target": 152
+  },
+  {
+   "freq": 2,
+   "source": 69,
+   "target": 87
+  },
+  {
+   "freq": 1,
+   "source": 69,
+   "target": 131
+  },
+  {
+   "freq": 3,
+   "source": 70,
+   "target": 151
+  },
+  {
+   "freq": 1,
+   "source": 71,
+   "target": 74
+  },
+  {
+   "freq": 2,
+   "source": 71,
+   "target": 77
+  },
+  {
+   "freq": 4,
+   "source": 71,
+   "target": 79
+  },
+  {
+   "freq": 1,
+   "source": 71,
+   "target": 80
+  },
+  {
+   "freq": 4,
+   "source": 71,
+   "target": 81
+  },
+  {
+   "freq": 10,
+   "source": 71,
+   "target": 92
+  },
+  {
+   "freq": 1,
+   "source": 71,
+   "target": 95
+  },
+  {
+   "freq": 3,
+   "source": 71,
+   "target": 112
+  },
+  {
+   "freq": 1,
+   "source": 71,
+   "target": 113
+  },
+  {
+   "freq": 1,
+   "source": 71,
+   "target": 117
+  },
+  {
+   "freq": 1,
+   "source": 71,
+   "target": 158
+  },
+  {
+   "freq": 2,
+   "source": 71,
+   "target": 159
+  },
+  {
+   "freq": 4,
+   "source": 71,
+   "target": 170
+  },
+  {
+   "freq": 2,
+   "source": 71,
+   "target": 171
+  },
+  {
+   "freq": 1,
+   "source": 71,
+   "target": 184
+  },
+  {
+   "freq": 1,
+   "source": 71,
+   "target": 188
+  },
+  {
+   "freq": 34,
+   "source": 72,
+   "target": 92
+  },
+  {
+   "freq": 11,
+   "source": 72,
+   "target": 138
+  },
+  {
+   "freq": 4,
+   "source": 72,
+   "target": 163
+  },
+  {
+   "freq": 1,
+   "source": 73,
+   "target": 114
+  },
+  {
+   "freq": 2,
+   "source": 74,
+   "target": 111
+  },
+  {
+   "freq": 2,
+   "source": 74,
+   "target": 123
+  },
+  {
+   "freq": 1,
+   "source": 74,
+   "target": 129
+  },
+  {
+   "freq": 1,
+   "source": 74,
+   "target": 138
+  },
+  {
+   "freq": 1,
+   "source": 75,
+   "target": 117
+  },
+  {
+   "freq": 1,
+   "source": 75,
+   "target": 163
+  },
+  {
+   "freq": 1,
+   "source": 76,
+   "target": 179
+  },
+  {
+   "freq": 1,
+   "source": 78,
+   "target": 181
+  },
+  {
+   "freq": 1,
+   "source": 79,
+   "target": 89
+  },
+  {
+   "freq": 2,
+   "source": 79,
+   "target": 115
+  },
+  {
+   "freq": 1,
+   "source": 79,
+   "target": 131
+  },
+  {
+   "freq": 1,
+   "source": 79,
+   "target": 158
+  },
+  {
+   "freq": 1,
+   "source": 79,
+   "target": 163
+  },
+  {
+   "freq": 2,
+   "source": 80,
+   "target": 92
+  },
+  {
+   "freq": 7,
+   "source": 80,
+   "target": 111
+  },
+  {
+   "freq": 2,
+   "source": 81,
+   "target": 92
+  },
+  {
+   "freq": 1,
+   "source": 81,
+   "target": 131
+  },
+  {
+   "freq": 1,
+   "source": 81,
+   "target": 165
+  },
+  {
+   "freq": 1,
+   "source": 82,
+   "target": 94
+  },
+  {
+   "freq": 2,
+   "source": 82,
+   "target": 123
+  },
+  {
+   "freq": 1,
+   "source": 82,
+   "target": 144
+  },
+  {
+   "freq": 1,
+   "source": 82,
+   "target": 152
+  },
+  {
+   "freq": 1,
+   "source": 82,
+   "target": 183
+  },
+  {
+   "freq": 2,
+   "source": 84,
+   "target": 150
+  },
+  {
+   "freq": 26,
+   "source": 85,
+   "target": 123
+  },
+  {
+   "freq": 8,
+   "source": 85,
+   "target": 154
+  },
+  {
+   "freq": 1,
+   "source": 87,
+   "target": 117
+  },
+  {
+   "freq": 2,
+   "source": 88,
+   "target": 92
+  },
+  {
+   "freq": 1,
+   "source": 88,
+   "target": 158
+  },
+  {
+   "freq": 2,
+   "source": 89,
+   "target": 90
+  },
+  {
+   "freq": 2,
+   "source": 89,
+   "target": 103
+  },
+  {
+   "freq": 1,
+   "source": 89,
+   "target": 112
+  },
+  {
+   "freq": 2,
+   "source": 89,
+   "target": 113
+  },
+  {
+   "freq": 1,
+   "source": 89,
+   "target": 119
+  },
+  {
+   "freq": 1,
+   "source": 89,
+   "target": 131
+  },
+  {
+   "freq": 1,
+   "source": 89,
+   "target": 154
+  },
+  {
+   "freq": 3,
+   "source": 89,
+   "target": 156
+  },
+  {
+   "freq": 1,
+   "source": 89,
+   "target": 159
+  },
+  {
+   "freq": 1,
+   "source": 89,
+   "target": 160
+  },
+  {
+   "freq": 1,
+   "source": 89,
+   "target": 178
+  },
+  {
+   "freq": 2,
+   "source": 90,
+   "target": 154
+  },
+  {
+   "freq": 1,
+   "source": 90,
+   "target": 160
+  },
+  {
+   "freq": 2,
+   "source": 91,
+   "target": 92
+  },
+  {
+   "freq": 1,
+   "source": 91,
+   "target": 94
+  },
+  {
+   "freq": 1,
+   "source": 91,
+   "target": 177
+  },
+  {
+   "freq": 2,
+   "source": 92,
+   "target": 97
+  },
+  {
+   "freq": 1,
+   "source": 92,
+   "target": 102
+  },
+  {
+   "freq": 2,
+   "source": 92,
+   "target": 112
+  },
+  {
+   "freq": 2,
+   "source": 92,
+   "target": 127
+  },
+  {
+   "freq": 2,
+   "source": 92,
+   "target": 131
+  },
+  {
+   "freq": 6,
+   "source": 92,
+   "target": 136
+  },
+  {
+   "freq": 3,
+   "source": 92,
+   "target": 138
+  },
+  {
+   "freq": 2,
+   "source": 92,
+   "target": 152
+  },
+  {
+   "freq": 6,
+   "source": 92,
+   "target": 159
+  },
+  {
+   "freq": 4,
+   "source": 92,
+   "target": 161
+  },
+  {
+   "freq": 2,
+   "source": 92,
+   "target": 163
+  },
+  {
+   "freq": 4,
+   "source": 92,
+   "target": 169
+  },
+  {
+   "freq": 4,
+   "source": 92,
+   "target": 171
+  },
+  {
+   "freq": 1,
+   "source": 92,
+   "target": 172
+  },
+  {
+   "freq": 2,
+   "source": 92,
+   "target": 180
+  },
+  {
+   "freq": 8,
+   "source": 92,
+   "target": 184
+  },
+  {
+   "freq": 5,
+   "source": 93,
+   "target": 123
+  },
+  {
+   "freq": 3,
+   "source": 93,
+   "target": 127
+  },
+  {
+   "freq": 1,
+   "source": 93,
+   "target": 165
+  },
+  {
+   "freq": 4,
+   "source": 94,
+   "target": 123
+  },
+  {
+   "freq": 2,
+   "source": 94,
+   "target": 127
+  },
+  {
+   "freq": 5,
+   "source": 94,
+   "target": 141
+  },
+  {
+   "freq": 2,
+   "source": 94,
+   "target": 144
+  },
+  {
+   "freq": 4,
+   "source": 94,
+   "target": 172
+  },
+  {
+   "freq": 1,
+   "source": 95,
+   "target": 115
+  },
+  {
+   "freq": 1,
+   "source": 95,
+   "target": 152
+  },
+  {
+   "freq": 1,
+   "source": 96,
+   "target": 127
+  },
+  {
+   "freq": 2,
+   "source": 96,
+   "target": 141
+  },
+  {
+   "freq": 1,
+   "source": 96,
+   "target": 152
+  },
+  {
+   "freq": 1,
+   "source": 96,
+   "target": 172
+  },
+  {
+   "freq": 2,
+   "source": 97,
+   "target": 102
+  },
+  {
+   "freq": 2,
+   "source": 99,
+   "target": 150
+  },
+  {
+   "freq": 1,
+   "source": 100,
+   "target": 154
+  },
+  {
+   "freq": 2,
+   "source": 100,
+   "target": 176
+  },
+  {
+   "freq": 1,
+   "source": 100,
+   "target": 178
+  },
+  {
+   "freq": 2,
+   "source": 101,
+   "target": 142
+  },
+  {
+   "freq": 2,
+   "source": 101,
+   "target": 150
+  },
+  {
+   "freq": 2,
+   "source": 102,
+   "target": 104
+  },
+  {
+   "freq": 2,
+   "source": 102,
+   "target": 105
+  },
+  {
+   "freq": 2,
+   "source": 102,
+   "target": 127
+  },
+  {
+   "freq": 1,
+   "source": 102,
+   "target": 159
+  },
+  {
+   "freq": 1,
+   "source": 102,
+   "target": 165
+  },
+  {
+   "freq": 1,
+   "source": 102,
+   "target": 169
+  },
+  {
+   "freq": 6,
+   "source": 102,
+   "target": 187
+  },
+  {
+   "freq": 1,
+   "source": 103,
+   "target": 111
+  },
+  {
+   "freq": 2,
+   "source": 103,
+   "target": 115
+  },
+  {
+   "freq": 1,
+   "source": 103,
+   "target": 123
+  },
+  {
+   "freq": 1,
+   "source": 103,
+   "target": 129
+  },
+  {
+   "freq": 1,
+   "source": 103,
+   "target": 145
+  },
+  {
+   "freq": 1,
+   "source": 103,
+   "target": 155
+  },
+  {
+   "freq": 1,
+   "source": 104,
+   "target": 138
+  },
+  {
+   "freq": 2,
+   "source": 104,
+   "target": 148
+  },
+  {
+   "freq": 1,
+   "source": 105,
+   "target": 111
+  },
+  {
+   "freq": 1,
+   "source": 105,
+   "target": 115
+  },
+  {
+   "freq": 1,
+   "source": 105,
+   "target": 131
+  },
+  {
+   "freq": 1,
+   "source": 106,
+   "target": 118
+  },
+  {
+   "freq": 2,
+   "source": 109,
+   "target": 122
+  },
+  {
+   "freq": 5,
+   "source": 109,
+   "target": 126
+  },
+  {
+   "freq": 1,
+   "source": 110,
+   "target": 167
+  },
+  {
+   "freq": 4,
+   "source": 111,
+   "target": 138
+  },
+  {
+   "freq": 1,
+   "source": 111,
+   "target": 154
+  },
+  {
+   "freq": 1,
+   "source": 111,
+   "target": 184
+  },
+  {
+   "freq": 2,
+   "source": 112,
+   "target": 138
+  },
+  {
+   "freq": 3,
+   "source": 112,
+   "target": 152
+  },
+  {
+   "freq": 5,
+   "source": 112,
+   "target": 158
+  },
+  {
+   "freq": 6,
+   "source": 113,
+   "target": 138
+  },
+  {
+   "freq": 1,
+   "source": 113,
+   "target": 155
+  },
+  {
+   "freq": 1,
+   "source": 114,
+   "target": 131
+  },
+  {
+   "freq": 1,
+   "source": 114,
+   "target": 132
+  },
+  {
+   "freq": 1,
+   "source": 114,
+   "target": 151
+  },
+  {
+   "freq": 1,
+   "source": 114,
+   "target": 154
+  },
+  {
+   "freq": 1,
+   "source": 114,
+   "target": 157
+  },
+  {
+   "freq": 1,
+   "source": 114,
+   "target": 163
+  },
+  {
+   "freq": 1,
+   "source": 114,
+   "target": 173
+  },
+  {
+   "freq": 3,
+   "source": 114,
+   "target": 177
+  },
+  {
+   "freq": 1,
+   "source": 114,
+   "target": 181
+  },
+  {
+   "freq": 2,
+   "source": 115,
+   "target": 129
+  },
+  {
+   "freq": 1,
+   "source": 115,
+   "target": 139
+  },
+  {
+   "freq": 19,
+   "source": 115,
+   "target": 154
+  },
+  {
+   "freq": 1,
+   "source": 115,
+   "target": 155
+  },
+  {
+   "freq": 3,
+   "source": 115,
+   "target": 180
+  },
+  {
+   "freq": 4,
+   "source": 116,
+   "target": 148
+  },
+  {
+   "freq": 3,
+   "source": 116,
+   "target": 181
+  },
+  {
+   "freq": 2,
+   "source": 117,
+   "target": 127
+  },
+  {
+   "freq": 1,
+   "source": 117,
+   "target": 177
+  },
+  {
+   "freq": 1,
+   "source": 117,
+   "target": 186
+  },
+  {
+   "freq": 1,
+   "source": 118,
+   "target": 149
+  },
+  {
+   "freq": 1,
+   "source": 118,
+   "target": 151
+  },
+  {
+   "freq": 1,
+   "source": 121,
+   "target": 127
+  },
+  {
+   "freq": 1,
+   "source": 122,
+   "target": 123
+  },
+  {
+   "freq": 1,
+   "source": 122,
+   "target": 158
+  },
+  {
+   "freq": 1,
+   "source": 123,
+   "target": 127
+  },
+  {
+   "freq": 3,
+   "source": 123,
+   "target": 144
+  },
+  {
+   "freq": 14,
+   "source": 123,
+   "target": 149
+  },
+  {
+   "freq": 1,
+   "source": 123,
+   "target": 161
+  },
+  {
+   "freq": 1,
+   "source": 123,
+   "target": 174
+  },
+  {
+   "freq": 1,
+   "source": 123,
+   "target": 180
+  },
+  {
+   "freq": 1,
+   "source": 124,
+   "target": 129
+  },
+  {
+   "freq": 3,
+   "source": 124,
+   "target": 154
+  },
+  {
+   "freq": 1,
+   "source": 125,
+   "target": 179
+  },
+  {
+   "freq": 1,
+   "source": 126,
+   "target": 127
+  },
+  {
+   "freq": 1,
+   "source": 126,
+   "target": 131
+  },
+  {
+   "freq": 4,
+   "source": 126,
+   "target": 145
+  },
+  {
+   "freq": 3,
+   "source": 127,
+   "target": 128
+  },
+  {
+   "freq": 2,
+   "source": 127,
+   "target": 132
+  },
+  {
+   "freq": 10,
+   "source": 127,
+   "target": 138
+  },
+  {
+   "freq": 1,
+   "source": 127,
+   "target": 144
+  },
+  {
+   "freq": 5,
+   "source": 127,
+   "target": 148
+  },
+  {
+   "freq": 1,
+   "source": 127,
+   "target": 152
+  },
+  {
+   "freq": 7,
+   "source": 127,
+   "target": 156
+  },
+  {
+   "freq": 1,
+   "source": 127,
+   "target": 158
+  },
+  {
+   "freq": 4,
+   "source": 127,
+   "target": 159
+  },
+  {
+   "freq": 2,
+   "source": 127,
+   "target": 163
+  },
+  {
+   "freq": 1,
+   "source": 127,
+   "target": 166
+  },
+  {
+   "freq": 3,
+   "source": 127,
+   "target": 174
+  },
+  {
+   "freq": 3,
+   "source": 128,
+   "target": 148
+  },
+  {
+   "freq": 2,
+   "source": 129,
+   "target": 154
+  },
+  {
+   "freq": 1,
+   "source": 130,
+   "target": 154
+  },
+  {
+   "freq": 1,
+   "source": 131,
+   "target": 134
+  },
+  {
+   "freq": 1,
+   "source": 131,
+   "target": 151
+  },
+  {
+   "freq": 2,
+   "source": 131,
+   "target": 152
+  },
+  {
+   "freq": 1,
+   "source": 131,
+   "target": 154
+  },
+  {
+   "freq": 1,
+   "source": 131,
+   "target": 159
+  },
+  {
+   "freq": 2,
+   "source": 131,
+   "target": 169
+  },
+  {
+   "freq": 1,
+   "source": 131,
+   "target": 175
+  },
+  {
+   "freq": 50,
+   "source": 131,
+   "target": 184
+  },
+  {
+   "freq": 1,
+   "source": 133,
+   "target": 150
+  },
+  {
+   "freq": 1,
+   "source": 135,
+   "target": 161
+  },
+  {
+   "freq": 1,
+   "source": 136,
+   "target": 151
+  },
+  {
+   "freq": 1,
+   "source": 136,
+   "target": 152
+  },
+  {
+   "freq": 1,
+   "source": 137,
+   "target": 152
+  },
+  {
+   "freq": 1,
+   "source": 137,
+   "target": 165
+  },
+  {
+   "freq": 2,
+   "source": 138,
+   "target": 140
+  },
+  {
+   "freq": 2,
+   "source": 138,
+   "target": 160
+  },
+  {
+   "freq": 2,
+   "source": 138,
+   "target": 166
+  },
+  {
+   "freq": 2,
+   "source": 138,
+   "target": 171
+  },
+  {
+   "freq": 1,
+   "source": 138,
+   "target": 174
+  },
+  {
+   "freq": 1,
+   "source": 141,
+   "target": 152
+  },
+  {
+   "freq": 1,
+   "source": 141,
+   "target": 177
+  },
+  {
+   "freq": 2,
+   "source": 142,
+   "target": 150
+  },
+  {
+   "freq": 1,
+   "source": 144,
+   "target": 177
+  },
+  {
+   "freq": 1,
+   "source": 144,
+   "target": 183
+  },
+  {
+   "freq": 1,
+   "source": 144,
+   "target": 184
+  },
+  {
+   "freq": 2,
+   "source": 145,
+   "target": 182
+  },
+  {
+   "freq": 1,
+   "source": 149,
+   "target": 175
+  },
+  {
+   "freq": 5,
+   "source": 150,
+   "target": 153
+  },
+  {
+   "freq": 1,
+   "source": 150,
+   "target": 168
+  },
+  {
+   "freq": 1,
+   "source": 151,
+   "target": 156
+  },
+  {
+   "freq": 2,
+   "source": 151,
+   "target": 159
+  },
+  {
+   "freq": 1,
+   "source": 152,
+   "target": 169
+  },
+  {
+   "freq": 2,
+   "source": 152,
+   "target": 172
+  },
+  {
+   "freq": 1,
+   "source": 152,
+   "target": 184
+  },
+  {
+   "freq": 1,
+   "source": 154,
+   "target": 155
+  },
+  {
+   "freq": 1,
+   "source": 154,
+   "target": 176
+  },
+  {
+   "freq": 3,
+   "source": 154,
+   "target": 185
+  },
+  {
+   "freq": 2,
+   "source": 155,
+   "target": 158
+  },
+  {
+   "freq": 1,
+   "source": 155,
+   "target": 160
+  },
+  {
+   "freq": 1,
+   "source": 158,
+   "target": 174
+  },
+  {
+   "freq": 2,
+   "source": 158,
+   "target": 186
+  },
+  {
+   "freq": 2,
+   "source": 159,
+   "target": 165
+  },
+  {
+   "freq": 1,
+   "source": 159,
+   "target": 181
+  },
+  {
+   "freq": 1,
+   "source": 165,
+   "target": 172
+  },
+  {
+   "freq": 2,
+   "source": 165,
+   "target": 177
+  },
+  {
+   "freq": 1,
+   "source": 168,
+   "target": 179
+  },
+  {
+   "freq": 2,
+   "source": 172,
+   "target": 177
+  },
+  {
+   "freq": 1,
+   "source": 177,
+   "target": 186
+  },
+  {
+   "freq": 1,
+   "source": 179,
+   "target": 182
+  }
+ ]
+}
