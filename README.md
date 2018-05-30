@@ -1,4 +1,4 @@
-# Practica realizada por David Cordoba Ruiz 
+# David Cordoba Ruiz 
 # Orden de ejcución: 
 
 1. AccesoAPI.py. Accede a la API de Spotify y crea un grafo que relaciona cantantes
